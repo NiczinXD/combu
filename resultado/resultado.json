@@ -1,0 +1,1978 @@
+[
+  {
+    "intervalo": 1,
+    "data": "25/08/24",
+    "dia": 1,
+    "odometro": 11.5,
+    "kmsDiaAnterior": 3,
+    "kmsAcumulado": 3
+  },
+  {
+    "intervalo": 1,
+    "data": "26/08/24",
+    "dia": 2,
+    "odometro": 19.7,
+    "kmsDiaAnterior": 8.2,
+    "kmsAcumulado": 11.2
+  },
+  {
+    "intervalo": 1,
+    "data": "27/08/24",
+    "dia": 3,
+    "odometro": 27.9,
+    "kmsDiaAnterior": 8.2,
+    "kmsAcumulado": 19.4
+  },
+  {
+    "intervalo": 1,
+    "data": "28/08/24",
+    "dia": 4,
+    "odometro": 40.5,
+    "kmsDiaAnterior": 12.6,
+    "kmsAcumulado": 32
+  },
+  {
+    "intervalo": 1,
+    "data": "29/08/24",
+    "dia": 5,
+    "odometro": 49.2,
+    "kmsDiaAnterior": 8.7,
+    "kmsAcumulado": 40.7
+  },
+  {
+    "intervalo": 1,
+    "data": "30/08/24",
+    "dia": 6,
+    "odometro": 53.3,
+    "kmsDiaAnterior": 4.1,
+    "kmsAcumulado": 44.8
+  },
+  {
+    "intervalo": 1,
+    "data": "31/08/24",
+    "dia": 7,
+    "odometro": 66.6,
+    "kmsDiaAnterior": 13.3,
+    "kmsAcumulado": 58.1
+  },
+  {
+    "intervalo": 1,
+    "data": "01/09/24",
+    "dia": 8,
+    "odometro": 69,
+    "kmsDiaAnterior": 2.4,
+    "kmsAcumulado": 60.5
+  },
+  {
+    "intervalo": 1,
+    "data": "02/09/24",
+    "dia": 9,
+    "odometro": 69,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 60.5
+  },
+  {
+    "intervalo": 1,
+    "data": "03/09/24",
+    "dia": 10,
+    "odometro": 73.4,
+    "kmsDiaAnterior": 4.4,
+    "kmsAcumulado": 64.9
+  },
+  {
+    "intervalo": 1,
+    "data": "04/09/24",
+    "dia": 11,
+    "odometro": 80.4,
+    "kmsDiaAnterior": 7,
+    "kmsAcumulado": 71.9
+  },
+  {
+    "intervalo": 1,
+    "data": "05/09/24",
+    "dia": 12,
+    "odometro": 89.3,
+    "kmsDiaAnterior": 8.9,
+    "kmsAcumulado": 80.8
+  },
+  {
+    "intervalo": 1,
+    "data": "06/09/24",
+    "dia": 13,
+    "odometro": 102.6,
+    "kmsDiaAnterior": 13.3,
+    "kmsAcumulado": 94.1
+  },
+  {
+    "intervalo": 1,
+    "data": "07/09/24",
+    "dia": 14,
+    "odometro": 114.3,
+    "kmsDiaAnterior": 11.7,
+    "kmsAcumulado": 105.8
+  },
+  {
+    "intervalo": 1,
+    "data": "08/09/24",
+    "dia": 15,
+    "odometro": 114.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 105.8
+  },
+  {
+    "intervalo": 1,
+    "data": "09/09/24",
+    "dia": 16,
+    "odometro": 120.2,
+    "kmsDiaAnterior": 5.9,
+    "kmsAcumulado": 111.7
+  },
+  {
+    "intervalo": 1,
+    "data": "10/09/24",
+    "dia": 17,
+    "odometro": 130.7,
+    "kmsDiaAnterior": 10.5,
+    "kmsAcumulado": 122.2
+  },
+  {
+    "intervalo": 1,
+    "data": "11/09/24",
+    "dia": 18,
+    "odometro": 141.6,
+    "kmsDiaAnterior": 10.9,
+    "kmsAcumulado": 133.1
+  },
+  {
+    "intervalo": 1,
+    "data": "12/09/24",
+    "dia": 19,
+    "odometro": 141.6,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 133.1
+  },
+  {
+    "intervalo": 1,
+    "data": "13/09/24",
+    "dia": 20,
+    "odometro": 155.1,
+    "kmsDiaAnterior": 13.5,
+    "kmsAcumulado": 146.6
+  },
+  {
+    "intervalo": 1,
+    "data": "14/09/24",
+    "dia": 21,
+    "odometro": 170.5,
+    "kmsDiaAnterior": 15.4,
+    "kmsAcumulado": 162
+  },
+  {
+    "intervalo": 1,
+    "data": "15/09/24",
+    "dia": 22,
+    "odometro": 175.7,
+    "kmsDiaAnterior": 5.2,
+    "kmsAcumulado": 167.2
+  },
+  {
+    "intervalo": 1,
+    "data": "16/09/24",
+    "dia": 23,
+    "odometro": 179,
+    "kmsDiaAnterior": 3.3,
+    "kmsAcumulado": 170.5
+  },
+  {
+    "intervalo": 1,
+    "data": "17/09/24",
+    "dia": 24,
+    "odometro": 188.1,
+    "kmsDiaAnterior": 9.1,
+    "kmsAcumulado": 179.6
+  },
+  {
+    "intervalo": 1,
+    "data": "18/09/24",
+    "dia": 25,
+    "odometro": 201.8,
+    "kmsDiaAnterior": 13.7,
+    "kmsAcumulado": 193.3
+  },
+  {
+    "intervalo": 2,
+    "data": "18/09/24",
+    "dia": 1,
+    "odometro": 204.8,
+    "kmsDiaAnterior": 3,
+    "kmsAcumulado": 196.3
+  },
+  {
+    "intervalo": 2,
+    "data": "19/09/24",
+    "dia": 2,
+    "odometro": 208.4,
+    "kmsDiaAnterior": 3.6,
+    "kmsAcumulado": 3.6
+  },
+  {
+    "intervalo": 2,
+    "data": "20/09/24",
+    "dia": 3,
+    "odometro": 220,
+    "kmsDiaAnterior": 11.6,
+    "kmsAcumulado": 15.2
+  },
+  {
+    "intervalo": 2,
+    "data": "21/09/24",
+    "dia": 4,
+    "odometro": 227.9,
+    "kmsDiaAnterior": 7.9,
+    "kmsAcumulado": 23.1
+  },
+  {
+    "intervalo": 2,
+    "data": "22/09/24",
+    "dia": 5,
+    "odometro": 231.1,
+    "kmsDiaAnterior": 3.2,
+    "kmsAcumulado": 26.3
+  },
+  {
+    "intervalo": 2,
+    "data": "23/09/24",
+    "dia": 6,
+    "odometro": 231.6,
+    "kmsDiaAnterior": 0.5,
+    "kmsAcumulado": 26.8
+  },
+  {
+    "intervalo": 2,
+    "data": "24/09/24",
+    "dia": 7,
+    "odometro": 231.6,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 26.8
+  },
+  {
+    "intervalo": 2,
+    "data": "25/09/24",
+    "dia": 8,
+    "odometro": 243.9,
+    "kmsDiaAnterior": 12.3,
+    "kmsAcumulado": 39.1
+  },
+  {
+    "intervalo": 2,
+    "data": "26/09/24",
+    "dia": 9,
+    "odometro": 258,
+    "kmsDiaAnterior": 14.1,
+    "kmsAcumulado": 53.2
+  },
+  {
+    "intervalo": 2,
+    "data": "27/09/24",
+    "dia": 10,
+    "odometro": 271.1,
+    "kmsDiaAnterior": 13.1,
+    "kmsAcumulado": 66.3
+  },
+  {
+    "intervalo": 2,
+    "data": "28/09/24",
+    "dia": 11,
+    "odometro": 284.8,
+    "kmsDiaAnterior": 13.7,
+    "kmsAcumulado": 80
+  },
+  {
+    "intervalo": 2,
+    "data": "29/09/24",
+    "dia": 12,
+    "odometro": 290.8,
+    "kmsDiaAnterior": 6,
+    "kmsAcumulado": 86
+  },
+  {
+    "intervalo": 2,
+    "data": "30/09/24",
+    "dia": 13,
+    "odometro": 306.3,
+    "kmsDiaAnterior": 15.5,
+    "kmsAcumulado": 101.5
+  },
+  {
+    "intervalo": 2,
+    "data": "01/10/24",
+    "dia": 14,
+    "odometro": 319,
+    "kmsDiaAnterior": 12.7,
+    "kmsAcumulado": 114.2
+  },
+  {
+    "intervalo": 2,
+    "data": "02/10/24",
+    "dia": 15,
+    "odometro": 326.8,
+    "kmsDiaAnterior": 7.8,
+    "kmsAcumulado": 122
+  },
+  {
+    "intervalo": 2,
+    "data": "03/10/24",
+    "dia": 16,
+    "odometro": 341.9,
+    "kmsDiaAnterior": 15.1,
+    "kmsAcumulado": 137.1
+  },
+  {
+    "intervalo": 2,
+    "data": "04/10/24",
+    "dia": 17,
+    "odometro": 352.4,
+    "kmsDiaAnterior": 10.5,
+    "kmsAcumulado": 147.6
+  },
+  {
+    "intervalo": 2,
+    "data": "05/10/24",
+    "dia": 18,
+    "odometro": 370.4,
+    "kmsDiaAnterior": 18,
+    "kmsAcumulado": 165.6
+  },
+  {
+    "intervalo": 2,
+    "data": "06/10/24",
+    "dia": 19,
+    "odometro": 372.4,
+    "kmsDiaAnterior": 2,
+    "kmsAcumulado": 167.6
+  },
+  {
+    "intervalo": 2,
+    "data": "07/10/24",
+    "dia": 20,
+    "odometro": 372.4,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 167.6
+  },
+  {
+    "intervalo": 2,
+    "data": "08/10/24",
+    "dia": 21,
+    "odometro": 372.4,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 167.6
+  },
+  {
+    "intervalo": 2,
+    "data": "09/10/24",
+    "dia": 22,
+    "odometro": 384.1,
+    "kmsDiaAnterior": 11.7,
+    "kmsAcumulado": 179.3
+  },
+  {
+    "intervalo": 2,
+    "data": "10/10/24",
+    "dia": 23,
+    "odometro": 389.5,
+    "kmsDiaAnterior": 5.4,
+    "kmsAcumulado": 184.7
+  },
+  {
+    "intervalo": 2,
+    "data": "11/10/24",
+    "dia": 24,
+    "odometro": 394.1,
+    "kmsDiaAnterior": 4.6,
+    "kmsAcumulado": 189.3
+  },
+  {
+    "intervalo": 2,
+    "data": "12/10/24",
+    "dia": 25,
+    "odometro": 398.8,
+    "kmsDiaAnterior": 4.7,
+    "kmsAcumulado": 194
+  },
+  {
+    "intervalo": 2,
+    "data": "13/10/24",
+    "dia": 26,
+    "odometro": 403.9,
+    "kmsDiaAnterior": 5.1,
+    "kmsAcumulado": 199.1
+  },
+  {
+    "intervalo": 2,
+    "data": "14/10/24",
+    "dia": 27,
+    "odometro": 403.9,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 199.1
+  },
+  {
+    "intervalo": 2,
+    "data": "15/10/24",
+    "dia": 28,
+    "odometro": 409.9,
+    "kmsDiaAnterior": 6,
+    "kmsAcumulado": 205.1
+  },
+  {
+    "intervalo": 3,
+    "data": "15/10/24",
+    "dia": 1,
+    "odometro": 412.9,
+    "kmsDiaAnterior": 3,
+    "kmsAcumulado": 208.1
+  },
+  {
+    "intervalo": 3,
+    "data": "16/10/24",
+    "dia": 2,
+    "odometro": 417.6,
+    "kmsDiaAnterior": 4.7,
+    "kmsAcumulado": 4.7
+  },
+  {
+    "intervalo": 3,
+    "data": "17/10/24",
+    "dia": 3,
+    "odometro": 430.5,
+    "kmsDiaAnterior": 12.9,
+    "kmsAcumulado": 17.6
+  },
+  {
+    "intervalo": 3,
+    "data": "18/10/24",
+    "dia": 4,
+    "odometro": 443.8,
+    "kmsDiaAnterior": 13.3,
+    "kmsAcumulado": 30.9
+  },
+  {
+    "intervalo": 3,
+    "data": "19/10/24",
+    "dia": 5,
+    "odometro": 459.8,
+    "kmsDiaAnterior": 16,
+    "kmsAcumulado": 46.9
+  },
+  {
+    "intervalo": 3,
+    "data": "20/10/24",
+    "dia": 6,
+    "odometro": 466.3,
+    "kmsDiaAnterior": 6.5,
+    "kmsAcumulado": 53.4
+  },
+  {
+    "intervalo": 3,
+    "data": "21/10/24",
+    "dia": 7,
+    "odometro": 466.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 53.4
+  },
+  {
+    "intervalo": 3,
+    "data": "22/10/24",
+    "dia": 8,
+    "odometro": 466.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 53.4
+  },
+  {
+    "intervalo": 3,
+    "data": "23/10/24",
+    "dia": 9,
+    "odometro": 482.3,
+    "kmsDiaAnterior": 16,
+    "kmsAcumulado": 69.4
+  },
+  {
+    "intervalo": 4,
+    "data": "23/10/24",
+    "dia": 1,
+    "odometro": 494.1,
+    "kmsDiaAnterior": 11.8,
+    "kmsAcumulado": 81.2
+  },
+  {
+    "intervalo": 4,
+    "data": "24/10/24",
+    "dia": 2,
+    "odometro": 496.6,
+    "kmsDiaAnterior": 2.5,
+    "kmsAcumulado": 2.5
+  },
+  {
+    "intervalo": 4,
+    "data": "25/10/24",
+    "dia": 3,
+    "odometro": 501,
+    "kmsDiaAnterior": 4.4,
+    "kmsAcumulado": 6.9
+  },
+  {
+    "intervalo": 4,
+    "data": "26/10/24",
+    "dia": 4,
+    "odometro": 509,
+    "kmsDiaAnterior": 8,
+    "kmsAcumulado": 14.9
+  },
+  {
+    "intervalo": 4,
+    "data": "27/10/24",
+    "dia": 5,
+    "odometro": 514.8,
+    "kmsDiaAnterior": 5.8,
+    "kmsAcumulado": 20.7
+  },
+  {
+    "intervalo": 4,
+    "data": "28/10/24",
+    "dia": 6,
+    "odometro": 516.1,
+    "kmsDiaAnterior": 1.3,
+    "kmsAcumulado": 22
+  },
+  {
+    "intervalo": 4,
+    "data": "29/10/24",
+    "dia": 7,
+    "odometro": 519.9,
+    "kmsDiaAnterior": 3.8,
+    "kmsAcumulado": 25.8
+  },
+  {
+    "intervalo": 4,
+    "data": "30/10/24",
+    "dia": 8,
+    "odometro": 531.6,
+    "kmsDiaAnterior": 11.7,
+    "kmsAcumulado": 37.5
+  },
+  {
+    "intervalo": 4,
+    "data": "31/10/24",
+    "dia": 9,
+    "odometro": 539.6,
+    "kmsDiaAnterior": 8,
+    "kmsAcumulado": 45.5
+  },
+  {
+    "intervalo": 4,
+    "data": "01/11/24",
+    "dia": 10,
+    "odometro": 548,
+    "kmsDiaAnterior": 8.4,
+    "kmsAcumulado": 53.9
+  },
+  {
+    "intervalo": 4,
+    "data": "02/11/24",
+    "dia": 11,
+    "odometro": 559.4,
+    "kmsDiaAnterior": 11.4,
+    "kmsAcumulado": 65.3
+  },
+  {
+    "intervalo": 4,
+    "data": "03/11/24",
+    "dia": 13,
+    "odometro": 562.4,
+    "kmsDiaAnterior": 3,
+    "kmsAcumulado": 68.3
+  },
+  {
+    "intervalo": 4,
+    "data": "04/11/24",
+    "dia": 14,
+    "odometro": 562.4,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 68.3
+  },
+  {
+    "intervalo": 5,
+    "data": "04/11/24",
+    "dia": 1,
+    "odometro": 565,
+    "kmsDiaAnterior": 2.6,
+    "kmsAcumulado": 70.9
+  },
+  {
+    "intervalo": 5,
+    "data": "05/11/24",
+    "dia": 2,
+    "odometro": 579.5,
+    "kmsDiaAnterior": 14.5,
+    "kmsAcumulado": 14.5
+  },
+  {
+    "intervalo": 5,
+    "data": "06/11/24",
+    "dia": 3,
+    "odometro": 590.07,
+    "kmsDiaAnterior": 10.57,
+    "kmsAcumulado": 25.07
+  },
+  {
+    "intervalo": 5,
+    "data": "07/11/24",
+    "dia": 4,
+    "odometro": 601.9,
+    "kmsDiaAnterior": 11.83,
+    "kmsAcumulado": 36.9
+  },
+  {
+    "intervalo": 5,
+    "data": "08/11/24",
+    "dia": 5,
+    "odometro": 605,
+    "kmsDiaAnterior": 3.1,
+    "kmsAcumulado": 40
+  },
+  {
+    "intervalo": 5,
+    "data": "09/11/24",
+    "dia": 6,
+    "odometro": 614,
+    "kmsDiaAnterior": 9,
+    "kmsAcumulado": 49
+  },
+  {
+    "intervalo": 5,
+    "data": "10/11/24",
+    "dia": 7,
+    "odometro": 618.9,
+    "kmsDiaAnterior": 4.9,
+    "kmsAcumulado": 53.9
+  },
+  {
+    "intervalo": 5,
+    "data": "11/11/24",
+    "dia": 8,
+    "odometro": 618.9,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 53.9
+  },
+  {
+    "intervalo": 5,
+    "data": "12/11/24",
+    "dia": 9,
+    "odometro": 621.7,
+    "kmsDiaAnterior": 2.8,
+    "kmsAcumulado": 56.7
+  },
+  {
+    "intervalo": 5,
+    "data": "13/11/24",
+    "dia": 10,
+    "odometro": 638.1,
+    "kmsDiaAnterior": 16.4,
+    "kmsAcumulado": 73.1
+  },
+  {
+    "intervalo": 6,
+    "data": "13/11/24",
+    "dia": 1,
+    "odometro": 638.1,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 73.1
+  },
+  {
+    "intervalo": 6,
+    "data": "14/11/24",
+    "dia": 2,
+    "odometro": 651.5,
+    "kmsDiaAnterior": 13.4,
+    "kmsAcumulado": 13.4
+  },
+  {
+    "intervalo": 6,
+    "data": "15/11/24",
+    "dia": 3,
+    "odometro": 664.3,
+    "kmsDiaAnterior": 12.8,
+    "kmsAcumulado": 26.2
+  },
+  {
+    "intervalo": 6,
+    "data": "16/11/24",
+    "dia": 4,
+    "odometro": 664.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 26.2
+  },
+  {
+    "intervalo": 6,
+    "data": "17/11/24",
+    "dia": 5,
+    "odometro": 674.2,
+    "kmsDiaAnterior": 9.9,
+    "kmsAcumulado": 36.1
+  },
+  {
+    "intervalo": 6,
+    "data": "18/11/24",
+    "dia": 6,
+    "odometro": 674.2,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 36.1
+  },
+  {
+    "intervalo": 6,
+    "data": "19/11/24",
+    "dia": 7,
+    "odometro": 678.1,
+    "kmsDiaAnterior": 3.9,
+    "kmsAcumulado": 40
+  },
+  {
+    "intervalo": 6,
+    "data": "20/11/24",
+    "dia": 8,
+    "odometro": 685.9,
+    "kmsDiaAnterior": 7.8,
+    "kmsAcumulado": 47.8
+  },
+  {
+    "intervalo": 6,
+    "data": "21/11/24",
+    "dia": 9,
+    "odometro": 685.9,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 47.8
+  },
+  {
+    "intervalo": 6,
+    "data": "22/11/24",
+    "dia": 10,
+    "odometro": 694.2,
+    "kmsDiaAnterior": 8.3,
+    "kmsAcumulado": 56.1
+  },
+  {
+    "intervalo": 6,
+    "data": "23/11/24",
+    "dia": 11,
+    "odometro": 694.2,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 56.1
+  },
+  {
+    "intervalo": 6,
+    "data": "24/11/24",
+    "dia": 12,
+    "odometro": 700.7,
+    "kmsDiaAnterior": 6.5,
+    "kmsAcumulado": 62.6
+  },
+  {
+    "intervalo": 6,
+    "data": "25/11/24",
+    "dia": 13,
+    "odometro": 700.7,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 62.6
+  },
+  {
+    "intervalo": 6,
+    "data": "26/11/24",
+    "dia": 14,
+    "odometro": 708.5,
+    "kmsDiaAnterior": 7.8,
+    "kmsAcumulado": 70.4
+  },
+  {
+    "intervalo": 6,
+    "data": "27/11/24",
+    "dia": 15,
+    "odometro": 728.9,
+    "kmsDiaAnterior": 20.4,
+    "kmsAcumulado": 90.8
+  },
+  {
+    "intervalo": 6,
+    "data": "28/11/24",
+    "dia": 16,
+    "odometro": 741.1,
+    "kmsDiaAnterior": 12.2,
+    "kmsAcumulado": 103
+  },
+  {
+    "intervalo": 6,
+    "data": "29/11/24",
+    "dia": 17,
+    "odometro": 754.6,
+    "kmsDiaAnterior": 13.5,
+    "kmsAcumulado": 116.5
+  },
+  {
+    "intervalo": 6,
+    "data": "30/11/24",
+    "dia": 18,
+    "odometro": 768.1,
+    "kmsDiaAnterior": 13.5,
+    "kmsAcumulado": 130
+  },
+  {
+    "intervalo": 6,
+    "data": "01/12/24",
+    "dia": 19,
+    "odometro": 778.6,
+    "kmsDiaAnterior": 10.5,
+    "kmsAcumulado": 140.5
+  },
+  {
+    "intervalo": 6,
+    "data": "02/12/24",
+    "dia": 20,
+    "odometro": 781.5,
+    "kmsDiaAnterior": 2.9,
+    "kmsAcumulado": 143.4
+  },
+  {
+    "intervalo": 7,
+    "data": "02/12/24",
+    "dia": 1,
+    "odometro": 788.5,
+    "kmsDiaAnterior": 7,
+    "kmsAcumulado": 150.4
+  },
+  {
+    "intervalo": 7,
+    "data": "03/12/24",
+    "dia": 2,
+    "odometro": 805.3,
+    "kmsDiaAnterior": 16.8,
+    "kmsAcumulado": 16.8
+  },
+  {
+    "intervalo": 7,
+    "data": "04/12/24",
+    "dia": 3,
+    "odometro": 818.1,
+    "kmsDiaAnterior": 12.8,
+    "kmsAcumulado": 29.6
+  },
+  {
+    "intervalo": 7,
+    "data": "05/12/24",
+    "dia": 4,
+    "odometro": 831.1,
+    "kmsDiaAnterior": 13,
+    "kmsAcumulado": 42.6
+  },
+  {
+    "intervalo": 7,
+    "data": "06/12/24",
+    "dia": 5,
+    "odometro": 843.2,
+    "kmsDiaAnterior": 12.1,
+    "kmsAcumulado": 54.7
+  },
+  {
+    "intervalo": 7,
+    "data": "07/12/24",
+    "dia": 6,
+    "odometro": 862.8,
+    "kmsDiaAnterior": 19.6,
+    "kmsAcumulado": 74.3
+  },
+  {
+    "intervalo": 7,
+    "data": "08/12/24",
+    "dia": 7,
+    "odometro": 871.8,
+    "kmsDiaAnterior": 9,
+    "kmsAcumulado": 83.3
+  },
+  {
+    "intervalo": 7,
+    "data": "09/12/24",
+    "dia": 8,
+    "odometro": 871.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 83.3
+  },
+  {
+    "intervalo": 7,
+    "data": "10/12/24",
+    "dia": 9,
+    "odometro": 871.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 83.3
+  },
+  {
+    "intervalo": 7,
+    "data": "11/12/24",
+    "dia": 10,
+    "odometro": 886.8,
+    "kmsDiaAnterior": 15,
+    "kmsAcumulado": 98.3
+  },
+  {
+    "intervalo": 7,
+    "data": "12/12/24",
+    "dia": 11,
+    "odometro": 900.3,
+    "kmsDiaAnterior": 13.5,
+    "kmsAcumulado": 111.8
+  },
+  {
+    "intervalo": 7,
+    "data": "13/12/24",
+    "dia": 12,
+    "odometro": 914.3,
+    "kmsDiaAnterior": 14,
+    "kmsAcumulado": 125.8
+  },
+  {
+    "intervalo": 7,
+    "data": "14/12/24",
+    "dia": 13,
+    "odometro": 926.5,
+    "kmsDiaAnterior": 12.2,
+    "kmsAcumulado": 138
+  },
+  {
+    "intervalo": 7,
+    "data": "15/12/24",
+    "dia": 14,
+    "odometro": 935.6,
+    "kmsDiaAnterior": 9.1,
+    "kmsAcumulado": 147.1
+  },
+  {
+    "intervalo": 7,
+    "data": "16/12/24",
+    "dia": 15,
+    "odometro": 939.5,
+    "kmsDiaAnterior": 3.9,
+    "kmsAcumulado": 151
+  },
+  {
+    "intervalo": 7,
+    "data": "17/12/24",
+    "dia": 16,
+    "odometro": 943.7,
+    "kmsDiaAnterior": 4.2,
+    "kmsAcumulado": 155.2
+  },
+  {
+    "intervalo": 7,
+    "data": "18/12/24",
+    "dia": 17,
+    "odometro": 950.3,
+    "kmsDiaAnterior": 6.6,
+    "kmsAcumulado": 161.8
+  },
+  {
+    "intervalo": 7,
+    "data": "19/12/24",
+    "dia": 18,
+    "odometro": 955.7,
+    "kmsDiaAnterior": 5.4,
+    "kmsAcumulado": 167.2
+  },
+  {
+    "intervalo": 7,
+    "data": "20/12/24",
+    "dia": 19,
+    "odometro": 960.6,
+    "kmsDiaAnterior": 4.9,
+    "kmsAcumulado": 172.1
+  },
+  {
+    "intervalo": 7,
+    "data": "21/12/24",
+    "dia": 20,
+    "odometro": 977.7,
+    "kmsDiaAnterior": 17.1,
+    "kmsAcumulado": 189.2
+  },
+  {
+    "intervalo": 7,
+    "data": "22/12/24",
+    "dia": 21,
+    "odometro": 980.9,
+    "kmsDiaAnterior": 3.2,
+    "kmsAcumulado": 192.4
+  },
+  {
+    "intervalo": 7,
+    "data": "23/12/24",
+    "dia": 22,
+    "odometro": 983.6,
+    "kmsDiaAnterior": 2.7,
+    "kmsAcumulado": 195.1
+  },
+  {
+    "intervalo": 7,
+    "data": "24/12/24",
+    "dia": 23,
+    "odometro": 989.3,
+    "kmsDiaAnterior": 5.7,
+    "kmsAcumulado": 200.8
+  },
+  {
+    "intervalo": 7,
+    "data": "25/12/24",
+    "dia": 24,
+    "odometro": 998.3,
+    "kmsDiaAnterior": 9,
+    "kmsAcumulado": 209.8
+  },
+  {
+    "intervalo": 7,
+    "data": "26/12/24",
+    "dia": 25,
+    "odometro": 998.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 209.8
+  },
+  {
+    "intervalo": 7,
+    "data": "27/12/24",
+    "dia": 26,
+    "odometro": null,
+    "kmsDiaAnterior": 5,
+    "kmsAcumulado": 214.8
+  },
+  {
+    "intervalo": 7,
+    "data": "27/12/24",
+    "dia": 1,
+    "odometro": null,
+    "kmsDiaAnterior": 6,
+    "kmsAcumulado": 220.8
+  },
+  {
+    "intervalo": 8,
+    "data": "28/12/24",
+    "dia": 2,
+    "odometro": null,
+    "kmsDiaAnterior": 6.6,
+    "kmsAcumulado": 6.6
+  },
+  {
+    "intervalo": 8,
+    "data": "28/12/24",
+    "dia": 3,
+    "odometro": 15.9,
+    "kmsDiaAnterior": 6.6,
+    "kmsAcumulado": 6.6
+  },
+  {
+    "intervalo": 8,
+    "data": "29/12/24",
+    "dia": 4,
+    "odometro": 28.2,
+    "kmsDiaAnterior": 12.3,
+    "kmsAcumulado": 18.9
+  },
+  {
+    "intervalo": 8,
+    "data": "30/12/24",
+    "dia": 5,
+    "odometro": 28.2,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 18.9
+  },
+  {
+    "intervalo": 8,
+    "data": "31/12/24",
+    "dia": 6,
+    "odometro": 39.4,
+    "kmsDiaAnterior": 11.2,
+    "kmsAcumulado": 30.1
+  },
+  {
+    "intervalo": 8,
+    "data": "01/01/25",
+    "dia": 7,
+    "odometro": 60.1,
+    "kmsDiaAnterior": 20.7,
+    "kmsAcumulado": 50.8
+  },
+  {
+    "intervalo": 8,
+    "data": "02/01/25",
+    "dia": 8,
+    "odometro": 65.8,
+    "kmsDiaAnterior": 5.7,
+    "kmsAcumulado": 56.5
+  },
+  {
+    "intervalo": 8,
+    "data": "03/01/25",
+    "dia": 9,
+    "odometro": 70.2,
+    "kmsDiaAnterior": 4.4,
+    "kmsAcumulado": 60.9
+  },
+  {
+    "intervalo": 8,
+    "data": "04/01/25",
+    "dia": 10,
+    "odometro": 79.2,
+    "kmsDiaAnterior": 9,
+    "kmsAcumulado": 69.9
+  },
+  {
+    "intervalo": 8,
+    "data": "05/01/25",
+    "dia": 11,
+    "odometro": 83.8,
+    "kmsDiaAnterior": 4.6,
+    "kmsAcumulado": 74.5
+  },
+  {
+    "intervalo": 8,
+    "data": "06/01/25",
+    "dia": 12,
+    "odometro": 89.1,
+    "kmsDiaAnterior": 5.3,
+    "kmsAcumulado": 79.8
+  },
+  {
+    "intervalo": 8,
+    "data": "07/01/25",
+    "dia": 13,
+    "odometro": 95.3,
+    "kmsDiaAnterior": 6.2,
+    "kmsAcumulado": 86
+  },
+  {
+    "intervalo": 8,
+    "data": "08/01/25",
+    "dia": 14,
+    "odometro": 95.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 86
+  },
+  {
+    "intervalo": 8,
+    "data": "09/01/25",
+    "dia": 15,
+    "odometro": 95.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 86
+  },
+  {
+    "intervalo": 8,
+    "data": "10/01/25",
+    "dia": 16,
+    "odometro": 95.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 86
+  },
+  {
+    "intervalo": 8,
+    "data": "11/01/25",
+    "dia": 17,
+    "odometro": 95.3,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 86
+  },
+  {
+    "intervalo": 8,
+    "data": "12/01/25",
+    "dia": 18,
+    "odometro": 100,
+    "kmsDiaAnterior": 4.7,
+    "kmsAcumulado": 90.7
+  },
+  {
+    "intervalo": 8,
+    "data": "13/01/25",
+    "dia": 19,
+    "odometro": 100,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 90.7
+  },
+  {
+    "intervalo": 8,
+    "data": "14/01/25",
+    "dia": 20,
+    "odometro": 108.9,
+    "kmsDiaAnterior": 8.9,
+    "kmsAcumulado": 99.6
+  },
+  {
+    "intervalo": 8,
+    "data": "15/01/25",
+    "dia": 21,
+    "odometro": 118.1,
+    "kmsDiaAnterior": 9.2,
+    "kmsAcumulado": 108.8
+  },
+  {
+    "intervalo": 8,
+    "data": "16/01/25",
+    "dia": 22,
+    "odometro": 123.5,
+    "kmsDiaAnterior": 5.4,
+    "kmsAcumulado": 114.2
+  },
+  {
+    "intervalo": 8,
+    "data": "17/01/25",
+    "dia": 23,
+    "odometro": 138.3,
+    "kmsDiaAnterior": 14.8,
+    "kmsAcumulado": 129
+  },
+  {
+    "intervalo": 8,
+    "data": "18/01/25",
+    "dia": 24,
+    "odometro": 148.1,
+    "kmsDiaAnterior": 9.8,
+    "kmsAcumulado": 138.8
+  },
+  {
+    "intervalo": 8,
+    "data": "19/01/25",
+    "dia": 25,
+    "odometro": 153.2,
+    "kmsDiaAnterior": 5.1,
+    "kmsAcumulado": 143.9
+  },
+  {
+    "intervalo": 8,
+    "data": "20/01/25",
+    "dia": 26,
+    "odometro": 153.2,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 143.9
+  },
+  {
+    "intervalo": 8,
+    "data": "21/01/25",
+    "dia": 27,
+    "odometro": 156.5,
+    "kmsDiaAnterior": 3.3,
+    "kmsAcumulado": 147.2
+  },
+  {
+    "intervalo": 8,
+    "data": "22/01/25",
+    "dia": 28,
+    "odometro": 158,
+    "kmsDiaAnterior": 1.5,
+    "kmsAcumulado": 148.7
+  },
+  {
+    "intervalo": 8,
+    "data": "23/01/25",
+    "dia": 29,
+    "odometro": 165.3,
+    "kmsDiaAnterior": 7.3,
+    "kmsAcumulado": 156
+  },
+  {
+    "intervalo": 8,
+    "data": "24/01/25",
+    "dia": 30,
+    "odometro": 171.8,
+    "kmsDiaAnterior": 6.5,
+    "kmsAcumulado": 162.5
+  },
+  {
+    "intervalo": 8,
+    "data": "25/01/25",
+    "dia": 31,
+    "odometro": 171.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 162.5
+  },
+  {
+    "intervalo": 8,
+    "data": "26/01/25",
+    "dia": 32,
+    "odometro": 172.3,
+    "kmsDiaAnterior": 0.5,
+    "kmsAcumulado": 163
+  },
+  {
+    "intervalo": 8,
+    "data": "27/01/25",
+    "dia": 33,
+    "odometro": 180.8,
+    "kmsDiaAnterior": 8.5,
+    "kmsAcumulado": 171.5
+  },
+  {
+    "intervalo": 8,
+    "data": "28/01/25",
+    "dia": 34,
+    "odometro": 180.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 171.5
+  },
+  {
+    "intervalo": 8,
+    "data": "29/01/25",
+    "dia": 35,
+    "odometro": 180.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 171.5
+  },
+  {
+    "intervalo": 8,
+    "data": "30/01/25",
+    "dia": 36,
+    "odometro": 180.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 171.5
+  },
+  {
+    "intervalo": 8,
+    "data": "31/01/25",
+    "dia": 37,
+    "odometro": 190.4,
+    "kmsDiaAnterior": 9.6,
+    "kmsAcumulado": 181.1
+  },
+  {
+    "intervalo": 8,
+    "data": "31/01/25",
+    "dia": 1,
+    "odometro": 199.7,
+    "kmsDiaAnterior": 9.3,
+    "kmsAcumulado": 190.4
+  },
+  {
+    "intervalo": 9,
+    "data": "01/02/25",
+    "dia": 2,
+    "odometro": 201.9,
+    "kmsDiaAnterior": 2.2,
+    "kmsAcumulado": 2.2
+  },
+  {
+    "intervalo": 9,
+    "data": "02/02/25",
+    "dia": 3,
+    "odometro": 209.6,
+    "kmsDiaAnterior": 7.7,
+    "kmsAcumulado": 9.9
+  },
+  {
+    "intervalo": 9,
+    "data": "03/02/25",
+    "dia": 4,
+    "odometro": 209.6,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 9.9
+  },
+  {
+    "intervalo": 9,
+    "data": "04/02/25",
+    "dia": 5,
+    "odometro": 225.7,
+    "kmsDiaAnterior": 16.1,
+    "kmsAcumulado": 26
+  },
+  {
+    "intervalo": 9,
+    "data": "05/02/25",
+    "dia": 6,
+    "odometro": 225.7,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 26
+  },
+  {
+    "intervalo": 9,
+    "data": "06/02/25",
+    "dia": 7,
+    "odometro": 237,
+    "kmsDiaAnterior": 11.3,
+    "kmsAcumulado": 37.3
+  },
+  {
+    "intervalo": 9,
+    "data": "07/02/25",
+    "dia": 8,
+    "odometro": 242.4,
+    "kmsDiaAnterior": 5.4,
+    "kmsAcumulado": 42.7
+  },
+  {
+    "intervalo": 9,
+    "data": "08/02/25",
+    "dia": 9,
+    "odometro": 250.1,
+    "kmsDiaAnterior": 7.7,
+    "kmsAcumulado": 50.4
+  },
+  {
+    "intervalo": 9,
+    "data": "09/02/25",
+    "dia": 10,
+    "odometro": 252.9,
+    "kmsDiaAnterior": 2.8,
+    "kmsAcumulado": 53.2
+  },
+  {
+    "intervalo": 9,
+    "data": "10/02/25",
+    "dia": 11,
+    "odometro": 256.8,
+    "kmsDiaAnterior": 3.9,
+    "kmsAcumulado": 57.1
+  },
+  {
+    "intervalo": 9,
+    "data": "11/02/25",
+    "dia": 12,
+    "odometro": 269.8,
+    "kmsDiaAnterior": 13,
+    "kmsAcumulado": 70.1
+  },
+  {
+    "intervalo": 9,
+    "data": "12/02/25",
+    "dia": 13,
+    "odometro": 285,
+    "kmsDiaAnterior": 15.2,
+    "kmsAcumulado": 85.3
+  },
+  {
+    "intervalo": 9,
+    "data": "13/02/25",
+    "dia": 14,
+    "odometro": 293.8,
+    "kmsDiaAnterior": 8.8,
+    "kmsAcumulado": 94.1
+  },
+  {
+    "intervalo": 9,
+    "data": "14/02/25",
+    "dia": 15,
+    "odometro": 314.2,
+    "kmsDiaAnterior": 20.4,
+    "kmsAcumulado": 114.5
+  },
+  {
+    "intervalo": 9,
+    "data": "15/02/25",
+    "dia": 16,
+    "odometro": 326.6,
+    "kmsDiaAnterior": 12.4,
+    "kmsAcumulado": 126.9
+  },
+  {
+    "intervalo": 9,
+    "data": "16/02/25",
+    "dia": 17,
+    "odometro": 328.4,
+    "kmsDiaAnterior": 1.8,
+    "kmsAcumulado": 128.7
+  },
+  {
+    "intervalo": 9,
+    "data": "17/02/25",
+    "dia": 18,
+    "odometro": 328.4,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 128.7
+  },
+  {
+    "intervalo": 9,
+    "data": "18/02/25",
+    "dia": 19,
+    "odometro": 339.1,
+    "kmsDiaAnterior": 10.7,
+    "kmsAcumulado": 139.4
+  },
+  {
+    "intervalo": 9,
+    "data": "19/02/25",
+    "dia": 20,
+    "odometro": 349.8,
+    "kmsDiaAnterior": 10.7,
+    "kmsAcumulado": 150.1
+  },
+  {
+    "intervalo": 9,
+    "data": "20/02/25",
+    "dia": 21,
+    "odometro": 357.3,
+    "kmsDiaAnterior": 7.5,
+    "kmsAcumulado": 157.6
+  },
+  {
+    "intervalo": 9,
+    "data": "21/02/25",
+    "dia": 22,
+    "odometro": 377.3,
+    "kmsDiaAnterior": 20,
+    "kmsAcumulado": 177.6
+  },
+  {
+    "intervalo": 9,
+    "data": "22/02/25",
+    "dia": 23,
+    "odometro": 391,
+    "kmsDiaAnterior": 13.7,
+    "kmsAcumulado": 191.3
+  },
+  {
+    "intervalo": 9,
+    "data": "23/02/25",
+    "dia": 24,
+    "odometro": 398,
+    "kmsDiaAnterior": 7,
+    "kmsAcumulado": 198.3
+  },
+  {
+    "intervalo": 9,
+    "data": "24/02/25",
+    "dia": 25,
+    "odometro": 398,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 198.3
+  },
+  {
+    "intervalo": 9,
+    "data": "25/02/25",
+    "dia": 26,
+    "odometro": 409.6,
+    "kmsDiaAnterior": 11.6,
+    "kmsAcumulado": 209.9
+  },
+  {
+    "intervalo": 9,
+    "data": "26/02/25",
+    "dia": 27,
+    "odometro": 422.8,
+    "kmsDiaAnterior": 13.2,
+    "kmsAcumulado": 223.1
+  },
+  {
+    "intervalo": 9,
+    "data": "27/02/25",
+    "dia": 28,
+    "odometro": 428.7,
+    "kmsDiaAnterior": 5.9,
+    "kmsAcumulado": 229
+  },
+  {
+    "intervalo": 9,
+    "data": "28/02/25",
+    "dia": 29,
+    "odometro": 442.1,
+    "kmsDiaAnterior": 13.4,
+    "kmsAcumulado": 242.4
+  },
+  {
+    "intervalo": 9,
+    "data": "01/03/25",
+    "dia": 30,
+    "odometro": 460.2,
+    "kmsDiaAnterior": 18.1,
+    "kmsAcumulado": 260.5
+  },
+  {
+    "intervalo": 9,
+    "data": "02/03/25",
+    "dia": 31,
+    "odometro": 475.7,
+    "kmsDiaAnterior": 15.5,
+    "kmsAcumulado": 276
+  },
+  {
+    "intervalo": 9,
+    "data": "03/03/25",
+    "dia": 32,
+    "odometro": 482.8,
+    "kmsDiaAnterior": 7.1,
+    "kmsAcumulado": 283.1
+  },
+  {
+    "intervalo": 9,
+    "data": "04/03/25",
+    "dia": 33,
+    "odometro": 482.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 283.1
+  },
+  {
+    "intervalo": 9,
+    "data": "05/03/25",
+    "dia": 34,
+    "odometro": 486.1,
+    "kmsDiaAnterior": 3.3,
+    "kmsAcumulado": 286.4
+  },
+  {
+    "intervalo": 9,
+    "data": "06/03/25",
+    "dia": 35,
+    "odometro": 486.5,
+    "kmsDiaAnterior": 0.4,
+    "kmsAcumulado": 286.8
+  },
+  {
+    "intervalo": 9,
+    "data": "07/03/25",
+    "dia": 36,
+    "odometro": 491.7,
+    "kmsDiaAnterior": 5.2,
+    "kmsAcumulado": 292
+  },
+  {
+    "intervalo": 9,
+    "data": "08/03/25",
+    "dia": 37,
+    "odometro": 491.7,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 292
+  },
+  {
+    "intervalo": 9,
+    "data": "09/03/25",
+    "dia": 38,
+    "odometro": 498.2,
+    "kmsDiaAnterior": 6.5,
+    "kmsAcumulado": 298.5
+  },
+  {
+    "intervalo": 9,
+    "data": "10/03/25",
+    "dia": 39,
+    "odometro": 500.8,
+    "kmsDiaAnterior": 2.6,
+    "kmsAcumulado": 301.1
+  },
+  {
+    "intervalo": 10,
+    "data": "10/03/25",
+    "dia": 1,
+    "odometro": 506.7,
+    "kmsDiaAnterior": 5.9,
+    "kmsAcumulado": 307
+  },
+  {
+    "intervalo": 10,
+    "data": "11/03/25",
+    "dia": 2,
+    "odometro": 517.2,
+    "kmsDiaAnterior": 10.5,
+    "kmsAcumulado": 10.5
+  },
+  {
+    "intervalo": 10,
+    "data": "12/03/25",
+    "dia": 3,
+    "odometro": 529.8,
+    "kmsDiaAnterior": 12.6,
+    "kmsAcumulado": 23.1
+  },
+  {
+    "intervalo": 10,
+    "data": "13/03/25",
+    "dia": 4,
+    "odometro": 553.8,
+    "kmsDiaAnterior": 24,
+    "kmsAcumulado": 47.1
+  },
+  {
+    "intervalo": 10,
+    "data": "14/03/25",
+    "dia": 5,
+    "odometro": 568.9,
+    "kmsDiaAnterior": 15.1,
+    "kmsAcumulado": 62.2
+  },
+  {
+    "intervalo": 11,
+    "data": "14/03/25",
+    "dia": 1,
+    "odometro": 580.5,
+    "kmsDiaAnterior": 11.6,
+    "kmsAcumulado": 73.8
+  },
+  {
+    "intervalo": 11,
+    "data": "15/03/25",
+    "dia": 2,
+    "odometro": 585.5,
+    "kmsDiaAnterior": 5,
+    "kmsAcumulado": 5
+  },
+  {
+    "intervalo": 11,
+    "data": "16/03/25",
+    "dia": 3,
+    "odometro": 590.1,
+    "kmsDiaAnterior": 4.6,
+    "kmsAcumulado": 9.6
+  },
+  {
+    "intervalo": 11,
+    "data": "17/03/25",
+    "dia": 4,
+    "odometro": 590.1,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 9.6
+  },
+  {
+    "intervalo": 11,
+    "data": "18/03/25",
+    "dia": 5,
+    "odometro": 598.4,
+    "kmsDiaAnterior": 8.3,
+    "kmsAcumulado": 17.9
+  },
+  {
+    "intervalo": 11,
+    "data": "19/03/25",
+    "dia": 6,
+    "odometro": 615.2,
+    "kmsDiaAnterior": 16.8,
+    "kmsAcumulado": 34.7
+  },
+  {
+    "intervalo": 11,
+    "data": "20/03/25",
+    "dia": 7,
+    "odometro": 627.2,
+    "kmsDiaAnterior": 12,
+    "kmsAcumulado": 46.7
+  },
+  {
+    "intervalo": 11,
+    "data": "21/03/25",
+    "dia": 8,
+    "odometro": 640.6,
+    "kmsDiaAnterior": 13.4,
+    "kmsAcumulado": 60.1
+  },
+  {
+    "intervalo": 11,
+    "data": "22/03/25",
+    "dia": 9,
+    "odometro": 645.8,
+    "kmsDiaAnterior": 5.2,
+    "kmsAcumulado": 65.3
+  },
+  {
+    "intervalo": 11,
+    "data": "23/03/25",
+    "dia": 10,
+    "odometro": 655.8,
+    "kmsDiaAnterior": 10,
+    "kmsAcumulado": 75.3
+  },
+  {
+    "intervalo": 11,
+    "data": "24/03/25",
+    "dia": 11,
+    "odometro": 655.8,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 75.3
+  },
+  {
+    "intervalo": 11,
+    "data": "25/03/25",
+    "dia": 12,
+    "odometro": 669.3,
+    "kmsDiaAnterior": 13.5,
+    "kmsAcumulado": 88.8
+  },
+  {
+    "intervalo": 11,
+    "data": "26/03/25",
+    "dia": 13,
+    "odometro": 685,
+    "kmsDiaAnterior": 15.7,
+    "kmsAcumulado": 104.5
+  },
+  {
+    "intervalo": 11,
+    "data": "27/03/25",
+    "dia": 14,
+    "odometro": 706.9,
+    "kmsDiaAnterior": 21.9,
+    "kmsAcumulado": 126.4
+  },
+  {
+    "intervalo": 11,
+    "data": "28/03/25",
+    "dia": 15,
+    "odometro": 721.9,
+    "kmsDiaAnterior": 15,
+    "kmsAcumulado": 141.4
+  },
+  {
+    "intervalo": 11,
+    "data": "29/03/25",
+    "dia": 16,
+    "odometro": 743.4,
+    "kmsDiaAnterior": 21.5,
+    "kmsAcumulado": 162.9
+  },
+  {
+    "intervalo": 11,
+    "data": "30/03/25",
+    "dia": 17,
+    "odometro": 747.6,
+    "kmsDiaAnterior": 4.2,
+    "kmsAcumulado": 167.1
+  },
+  {
+    "intervalo": 11,
+    "data": "31/03/25",
+    "dia": 18,
+    "odometro": 753.4,
+    "kmsDiaAnterior": 5.8,
+    "kmsAcumulado": 172.9
+  },
+  {
+    "intervalo": 11,
+    "data": "01/04/25",
+    "dia": 19,
+    "odometro": 764.8,
+    "kmsDiaAnterior": 11.4,
+    "kmsAcumulado": 184.3
+  },
+  {
+    "intervalo": 11,
+    "data": "02/04/25",
+    "dia": 20,
+    "odometro": 770,
+    "kmsDiaAnterior": 5.2,
+    "kmsAcumulado": 189.5
+  },
+  {
+    "intervalo": 11,
+    "data": "03/04/25",
+    "dia": 21,
+    "odometro": 785.2,
+    "kmsDiaAnterior": 15.2,
+    "kmsAcumulado": 204.7
+  },
+  {
+    "intervalo": 11,
+    "data": "04/04/25",
+    "dia": 22,
+    "odometro": 794.3,
+    "kmsDiaAnterior": 9.1,
+    "kmsAcumulado": 213.8
+  },
+  {
+    "intervalo": 12,
+    "data": "04/04/25",
+    "dia": 1,
+    "odometro": 797.1,
+    "kmsDiaAnterior": 2.8,
+    "kmsAcumulado": 216.6
+  },
+  {
+    "intervalo": 12,
+    "data": "05/04/25",
+    "dia": 2,
+    "odometro": 811.7,
+    "kmsDiaAnterior": 14.6,
+    "kmsAcumulado": 14.6
+  },
+  {
+    "intervalo": 12,
+    "data": "06/04/25",
+    "dia": 3,
+    "odometro": 811.7,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 14.6
+  },
+  {
+    "intervalo": 12,
+    "data": "07/04/25",
+    "dia": 4,
+    "odometro": 811.7,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 14.6
+  },
+  {
+    "intervalo": 12,
+    "data": "08/04/25",
+    "dia": 5,
+    "odometro": 821.6,
+    "kmsDiaAnterior": 9.9,
+    "kmsAcumulado": 24.5
+  },
+  {
+    "intervalo": 12,
+    "data": "09/04/25",
+    "dia": 6,
+    "odometro": 822.7,
+    "kmsDiaAnterior": 1.1,
+    "kmsAcumulado": 25.6
+  },
+  {
+    "intervalo": 12,
+    "data": "10/04/25",
+    "dia": 7,
+    "odometro": 834.5,
+    "kmsDiaAnterior": 11.8,
+    "kmsAcumulado": 37.4
+  },
+  {
+    "intervalo": 12,
+    "data": "11/04/25",
+    "dia": 8,
+    "odometro": 847.3,
+    "kmsDiaAnterior": 12.8,
+    "kmsAcumulado": 50.2
+  },
+  {
+    "intervalo": 12,
+    "data": "12/04/25",
+    "dia": 9,
+    "odometro": 860.9,
+    "kmsDiaAnterior": 13.6,
+    "kmsAcumulado": 63.8
+  },
+  {
+    "intervalo": 12,
+    "data": "13/04/25",
+    "dia": 10,
+    "odometro": 883.2,
+    "kmsDiaAnterior": 22.3,
+    "kmsAcumulado": 86.1
+  },
+  {
+    "intervalo": 12,
+    "data": "14/04/25",
+    "dia": 11,
+    "odometro": 883.2,
+    "kmsDiaAnterior": 0,
+    "kmsAcumulado": 86.1
+  },
+  {
+    "intervalo": 12,
+    "data": "15/04/25",
+    "dia": 12,
+    "odometro": 894,
+    "kmsDiaAnterior": 10.8,
+    "kmsAcumulado": 96.9
+  },
+  {
+    "intervalo": 12,
+    "data": "16/04/25",
+    "dia": 13,
+    "odometro": 918.4,
+    "kmsDiaAnterior": 24.4,
+    "kmsAcumulado": 121.3
+  }
+]
