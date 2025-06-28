@@ -1,5 +1,5 @@
 import fs from 'fs';
-const caminhoArquivo = './consumo.csv';
+const caminhoArquivo = './consumo2.csv';
 const pastaResultados = './resultado';
 
 import {Dia}  from "./Dia.js";
