@@ -3,6 +3,6 @@ import express from 'express';
 
 const routes = express.Router();
 
-routes.get('/busca', CombuController.busca);
+routes.get('/busca', CombuController.busca.bind(CombuController));
 
 export default routes;
