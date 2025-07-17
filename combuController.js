@@ -1,45 +1,41 @@
-import { Dia } from "./Dia.js";
-import fs from 'fs';
-const caminhoArquivo = './consumo2.csv';
+import { MongoClient } from 'mongodb';
+
+const uri = 'mongodb://localhost:27017';
+const nomeBanco = 'Combu';
+const nomeColecao = 'consumo';
 
 class CombuController {
-    
-    static replaceCommaInQuotes(str) {
-        return str.replace(/"[^"]*"/g, (match) => {
-            return match.replace(/,/g, '.');
-        });
-    }
-
-    static async parseDiasFromCSV() {
-        const texto = fs.readFileSync(caminhoArquivo, 'utf-8');
-        const linhas = texto.trim().split('\n');
-        const dias = [];
-        for (let i = 1; i < linhas.length; i++) {
-            const linha = this.replaceCommaInQuotes(linhas[i]);
-            const colunas = linha.split(',');
-            const dia = new Dia(colunas);
-            dias.push(dia);
-        }
-        return dias;
-    }
-
     static async busca(req, res) {
         const query = req.query.query;
+
         if (!query) {
             return res.status(400).json({ erro: 'Parâmetro query é obrigatório' });
         }
-        const dias = await this.parseDiasFromCSV();
-        const resultado = dias
-            .filter(d => d.dia === Number(query))
-            .map(d => ({
-                data: d.data,
-                intervalo: d.intervalo,
-                kmAcumulado: d.kmsAcumulado
+
+        const client = new MongoClient(uri);
+
+        try {
+            await client.connect();
+            const db = client.db(nomeBanco);
+            const colecao = db.collection(nomeColecao);
+
+            const filtro = { Dias: Number(query) }; 
+            const resultados = await colecao.find(filtro).toArray();
+
+            const resposta = resultados.map(doc => ({
+                data: doc.data || doc.Data,
+                intervalo: doc.intervalo || doc.Intervalo || doc["Intervalo"],
+                kmAcumulado: doc.kmAcumulado || doc.KmAcumulado || doc["Km Acumulado"]
             }));
 
-        res.json(resultado);
+            res.json(resposta);
+        } catch (erro) {
+            console.error("Erro ao buscar dados:", erro);
+            res.status(500).json({ erro: 'Erro interno ao buscar dados' });
+        } finally {
+            await client.close();
+        }
     }
 }
-
 
 export default CombuController;
