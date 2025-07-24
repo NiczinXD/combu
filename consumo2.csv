@@ -1,4 +1,4 @@
-id,data,horas,dia,observção,Intervalo,Dias,Odometro Inicial,Odometro Final,Km percorridos,Km Acumulado,,,Média,,,,,,,,,,,,,,,,
+idConsumo,data,horas,dia,observção,Intervalo,Dias,OdometroInicial,OdometroFinal,KmPercorridos,KmAcumulado,,,Média,,,,,,,,,,,,,,,,
 1977,24/08/24,0:00:00,sábado,,1,1,"8,50","11,50","3,00","3,00",,,,,,,,,,,,,,,,,,,
 1978,25/08/24,0:00:00,domingo,,1,2,"11,50","19,70","8,20","11,20",,,,,,,,,,,,,,,,,,,
 1979,26/08/24,0:00:00,segunda,,1,3,"19,70","27,90","8,20","19,40",,,,,,,,,,,,,,,,,,,
