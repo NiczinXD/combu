@@ -1,6 +1,5 @@
 // NOME: app01.js
 // OBJETIVO: Ler um arquivo CSV, processar os dados e salvar em um arquivo JSON.
-// AUTOR: ChatGPT
 // DATA: 16-04-2025
 // VERSÃO: 1.0
 
