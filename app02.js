@@ -11,6 +11,8 @@ import readline from 'readline';
 const caminhoArquivo = './consumo2.csv';
 const pastaResultados = './resultado';
 
+console.clear();
+
 function perguntar(msg){
     const rl = readline.createInterface({
         input: process.stdin,
@@ -24,13 +26,20 @@ function perguntar(msg){
     });
 }
 
-// conecta no mongodb
-mongoose.connect("mongodb://127.0.0.1:27017/Combu", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
-.then(() => console.log("MongoDB conectado com sucesso!"))
-.catch(err => console.error("Erro ao conectar:", err));
+async function conectaNaDatabase() {
+    mongoose.connect("mongodb://127.0.0.1:27017/Combu");
+    console.log("Conectado ao MongoDB com sucesso!");
+    return mongoose.connection;
+}
+conectaNaDatabase();
+
+const resposta1 = await perguntar(
+    "Esse programa insere um arquivo CSV no MongoDB. Digite 'sim' para continuar e 9 para encerrar: "
+);
+if (resposta1 !== 's' && resposta1 !== 'sim') {
+    console.log("End-of-job");
+    process.exit(0);
+}
 
 function replaceCommaInQuotes(str) {
     return str.replace(/"[^"]*"/g, (match) => {
@@ -39,13 +48,6 @@ function replaceCommaInQuotes(str) {
 }
 
 async function main(){
-    const resposta1 = await perguntar(
-        "Esse programa insere um arquivo CSV no MongoDB. Tem certeza que quer iniciar? (s/n): "
-    );
-    if (resposta1 !== 's' && resposta1 !== 'sim') {
-        console.log("Operação cancelada pelo usuário.");
-        process.exit(0);
-    }
     let arrayAux = [];
     fs.readFile(caminhoArquivo, 'utf-8', async (erro, texto) => {
         if (erro) {
@@ -76,19 +78,11 @@ async function main(){
         }
 
 
-        const caminhoSaida = `${pastaResultados}/resultado.json`;
-        fs.writeFile(caminhoSaida, JSON.stringify(dias, null, 2), (erro) => {
-            if (erro) {
-                console.error('Erro ao escrever o arquivo:', erro.message);
-                return;
-            }
-            console.log('Arquivo JSON criado com sucesso!');
-        });
-
+        
         // insere todos os dados de "dias" no mongodb ao invés de criar um arquivo json
         try {
             const resposta2 = await perguntar(
-                "Deseja deletar os arquivos já existentes no banco para repor com os novos? Tem certeza(s/n): "
+                "Deseja deletar os arquivos já existentes no banco para repor com os novos? Digite 'sim' para concordar e 9 para discordar: "
             );
             if (resposta2 == 's' || resposta2 == 'sim') {
                 await movimento.deleteMany({});
@@ -99,6 +93,14 @@ async function main(){
         } catch (err) {
             console.error("Erro ao salvar no MongoDB:", err);
         }
+        const caminhoSaida = `${pastaResultados}/resultado.json`;
+        fs.writeFile(caminhoSaida, JSON.stringify(dias, null, 2), (erro) => {
+            if (erro) {
+                console.error('Erro ao escrever o arquivo:', erro.message);
+                return;
+            }
+            console.log('Arquivo JSON criado com sucesso!');
+        });
     });
 }
 main();
