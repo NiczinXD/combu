@@ -1,45 +1,48 @@
-// NOME: app01.js
-// OBJETIVO: Ler um arquivo CSV, processar os dados e salvar em um arquivo JSON.
-// DATA: 16-04-2025
+// NOME: app02.js
+// OBJETIVO: Importar coleção "Movimentos" de um arquivo cvs.
+// DATA: 26-09-2025
 // VERSÃO: 1.0
 
 import mongoose from 'mongoose';
 import fs from 'fs';
 import movimento from "./src/models/Movimento.js";
-import readline from 'readline';
-
+import conectaNaDatabase from './src/config/conectaNaDataBase.js';
+import { pula } from './src/app00.js';
+import read from 'readline-sync';
+import "colors";
 const caminhoArquivo = './consumo2.csv';
-const pastaResultados = './resultado';
 
 console.clear();
 
-function perguntar(msg){
-    const rl = readline.createInterface({
-        input: process.stdin,
-        output: process.stdout
-    });
-    return new Promise((resolve) => {
-        rl.question(msg, (resposta) => {
-            rl.close();
-            resolve(resposta.trim().toLowerCase());
+async function aguardaConexao(conexao) {
+    return new Promise((resolve, reject) => {
+        conexao.once("open", () => {
+            pula();
+            console.log("Conexão com o banco sendo feita com sucesso");
+            console.log("Banco conectado:", conexao.name || conexao.db?.databaseName);
+            pula();
+            resolve();
+        });
+        conexao.on("error", (erro) => {
+            console.error("erro de conexão", erro);
+            reject(erro);
         });
     });
 }
 
-async function conectaNaDatabase() {
-    mongoose.connect("mongodb://127.0.0.1:27017/Combu");
-    console.log("Conectado ao MongoDB com sucesso!");
-    return mongoose.connection;
-}
-conectaNaDatabase();
+console.log("I M P O R T A R   C O L E Ç Ã O  'Movimentos'  D E  UM  .CVS".red);
+pula();
 
-const resposta1 = await perguntar(
-    "Esse programa insere um arquivo CSV no MongoDB. Digite 'sim' para continuar e 9 para encerrar: "
-);
-if (resposta1 !== 's' && resposta1 !== 'sim') {
-    console.log("End-of-job");
+let resposta = read.question("Digite 's' para continuar: ");
+
+if (resposta.toLowerCase() !== 's') {
+    console.log("End-of-job".green);
     process.exit(0);
 }
+
+const conexao = await conectaNaDatabase();
+await aguardaConexao(conexao);
+
 
 function replaceCommaInQuotes(str) {
     return str.replace(/"[^"]*"/g, (match) => {
@@ -76,31 +79,28 @@ async function main(){
             const dia = new movimento(Obj);
             dias.push(dia);
         }
-
-
         
         // insere todos os dados de "dias" no mongodb ao invés de criar um arquivo json
         try {
-            const resposta2 = await perguntar(
-                "Deseja deletar os arquivos já existentes no banco para repor com os novos? Digite 'sim' para concordar e 9 para discordar: "
-            );
-            if (resposta2 == 's' || resposta2 == 'sim') {
+            console.log("Deseja limpar a coleção Movimentos antes desta inserção?".yellow);
+            pula();
+            resposta = read.question("Digite 's' ou 9 para encerrar: ");
+
+            if (resposta.toLowerCase() == 's') {
                 await movimento.deleteMany({});
             }
+            if (resposta == '9') {
+                console.log("End-of-job".green);
+                process.exit(0);
+            }
             await movimento.insertMany(dias);
-            console.log("Dados inseridos no MongoDB com sucesso!");
+            console.log("Dados inseridos no MongoDB com sucesso!".green);
+            pula();
+            console.log("End-of-job".green);
             mongoose.connection.close();
         } catch (err) {
             console.error("Erro ao salvar no MongoDB:", err);
         }
-        const caminhoSaida = `${pastaResultados}/resultado.json`;
-        fs.writeFile(caminhoSaida, JSON.stringify(dias, null, 2), (erro) => {
-            if (erro) {
-                console.error('Erro ao escrever o arquivo:', erro.message);
-                return;
-            }
-            console.log('Arquivo JSON criado com sucesso!');
-        });
     });
 }
 main();

@@ -1,5154 +1,2900 @@
 [
   {
-    "id": "68dbe57dff00bdf3c094a073",
     "data": "24/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "8.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "11.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3"
-    },
-    "_id": "68dbe57dff00bdf3c094a074"
+    "odometroInicial": 8.5,
+    "odometroFinal": 11.5,
+    "kmsPercorridos": 3,
+    "kmsAcumulado": 3
   },
   {
-    "id": "68dbe57dff00bdf3c094a075",
     "data": "25/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "11.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "19.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a076"
+    "odometroInicial": 11.5,
+    "odometroFinal": 19.7,
+    "kmsPercorridos": 8.2,
+    "kmsAcumulado": 11.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a077",
     "data": "26/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "19.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "27.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a078"
+    "odometroInicial": 19.7,
+    "odometroFinal": 27.9,
+    "kmsPercorridos": 8.2,
+    "kmsAcumulado": 19.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a079",
     "data": "27/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "27.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "40.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a07a"
+    "odometroInicial": 27.9,
+    "odometroFinal": 40.5,
+    "kmsPercorridos": 12.6,
+    "kmsAcumulado": 32
   },
   {
-    "id": "68dbe57dff00bdf3c094a07b",
     "data": "28/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "40.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "49.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a07c"
+    "odometroInicial": 40.5,
+    "odometroFinal": 49.2,
+    "kmsPercorridos": 8.7,
+    "kmsAcumulado": 40.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a07d",
     "data": "29/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "49.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "53.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a07e"
+    "odometroInicial": 49.2,
+    "odometroFinal": 53.3,
+    "kmsPercorridos": 4.1,
+    "kmsAcumulado": 44.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a07f",
     "data": "30/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "53.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "66.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a080"
+    "odometroInicial": 53.3,
+    "odometroFinal": 66.6,
+    "kmsPercorridos": 13.3,
+    "kmsAcumulado": 58.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a081",
     "data": "31/08/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "66.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "69"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a082"
+    "odometroInicial": 66.6,
+    "odometroFinal": 69,
+    "kmsPercorridos": 2.4,
+    "kmsAcumulado": 60.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a083",
     "data": "01/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "69"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "69"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a084"
+    "odometroInicial": 69,
+    "odometroFinal": 69,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 60.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a085",
     "data": "02/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "69"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "73.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a086"
+    "odometroInicial": 69,
+    "odometroFinal": 73.4,
+    "kmsPercorridos": 4.4,
+    "kmsAcumulado": 64.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a087",
     "data": "03/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "73.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "80.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7"
-    },
-    "_id": "68dbe57dff00bdf3c094a088"
+    "odometroInicial": 73.4,
+    "odometroFinal": 80.4,
+    "kmsPercorridos": 7,
+    "kmsAcumulado": 71.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a089",
     "data": "04/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "80.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "89.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a08a"
+    "odometroInicial": 80.4,
+    "odometroFinal": 89.3,
+    "kmsPercorridos": 8.9,
+    "kmsAcumulado": 80.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a08b",
     "data": "05/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "89.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "102.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a08c"
+    "odometroInicial": 89.3,
+    "odometroFinal": 102.6,
+    "kmsPercorridos": 13.3,
+    "kmsAcumulado": 94.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a08d",
     "data": "06/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "102.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "114.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a08e"
+    "odometroInicial": 102.6,
+    "odometroFinal": 114.3,
+    "kmsPercorridos": 11.7,
+    "kmsAcumulado": 105.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a08f",
     "data": "07/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "114.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "114.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a090"
+    "odometroInicial": 114.3,
+    "odometroFinal": 114.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 105.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a091",
     "data": "08/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "114.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "120.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a092"
+    "odometroInicial": 114.3,
+    "odometroFinal": 120.2,
+    "kmsPercorridos": 5.9,
+    "kmsAcumulado": 111.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a093",
     "data": "09/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "120.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "130.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a094"
+    "odometroInicial": 120.2,
+    "odometroFinal": 130.7,
+    "kmsPercorridos": 10.5,
+    "kmsAcumulado": 122.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a095",
     "data": "10/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "130.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "141.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a096"
+    "odometroInicial": 130.7,
+    "odometroFinal": 141.6,
+    "kmsPercorridos": 10.9,
+    "kmsAcumulado": 133.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a097",
     "data": "11/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "141.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "141.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a098"
+    "odometroInicial": 141.6,
+    "odometroFinal": 141.6,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 133.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a099",
     "data": "12/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "141.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "155.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a09a"
+    "odometroInicial": 141.6,
+    "odometroFinal": 155.1,
+    "kmsPercorridos": 13.5,
+    "kmsAcumulado": 146.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a09b",
     "data": "13/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "155.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "170.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a09c"
+    "odometroInicial": 155.1,
+    "odometroFinal": 170.5,
+    "kmsPercorridos": 15.4,
+    "kmsAcumulado": 162
   },
   {
-    "id": "68dbe57dff00bdf3c094a09d",
     "data": "14/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "170.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "175.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a09e"
+    "odometroInicial": 170.5,
+    "odometroFinal": 175.7,
+    "kmsPercorridos": 5.2,
+    "kmsAcumulado": 167.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a09f",
     "data": "15/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "175.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "179"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a0a0"
+    "odometroInicial": 175.7,
+    "odometroFinal": 179,
+    "kmsPercorridos": 3.3,
+    "kmsAcumulado": 170.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a0a1",
     "data": "16/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "179"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "188.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a0a2"
+    "odometroInicial": 179,
+    "odometroFinal": 188.1,
+    "kmsPercorridos": 9.1,
+    "kmsAcumulado": 179.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0a3",
     "data": "17/09/24",
-    "periodo": 1,
+    "intervalo": 1,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "188.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "201.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0a4"
+    "odometroInicial": 188.1,
+    "odometroFinal": 201.8,
+    "kmsPercorridos": 13.7,
+    "kmsAcumulado": 193.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a0a5",
     "data": "18/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "201.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "204.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3"
-    },
-    "_id": "68dbe57dff00bdf3c094a0a6"
+    "odometroInicial": 201.8,
+    "odometroFinal": 204.8,
+    "kmsPercorridos": 3,
+    "kmsAcumulado": 196.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a0a7",
     "data": "18/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "204.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "208.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a0a8"
+    "odometroInicial": 204.8,
+    "odometroFinal": 208.4,
+    "kmsPercorridos": 3.6,
+    "kmsAcumulado": 3.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0a9",
     "data": "19/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "208.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "220"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a0aa"
+    "odometroInicial": 208.4,
+    "odometroFinal": 220,
+    "kmsPercorridos": 11.6,
+    "kmsAcumulado": 15.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a0ab",
     "data": "20/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "220"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "227.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ac"
+    "odometroInicial": 220,
+    "odometroFinal": 227.9,
+    "kmsPercorridos": 7.9,
+    "kmsAcumulado": 23.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0ad",
     "data": "21/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "227.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "231.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ae"
+    "odometroInicial": 227.9,
+    "odometroFinal": 231.1,
+    "kmsPercorridos": 3.2,
+    "kmsAcumulado": 26.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a0af",
     "data": "22/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "231.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "231.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a0b0"
+    "odometroInicial": 231.1,
+    "odometroFinal": 231.6,
+    "kmsPercorridos": 0.5,
+    "kmsAcumulado": 26.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a0b1",
     "data": "23/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "231.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "231.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a0b2"
+    "odometroInicial": 231.6,
+    "odometroFinal": 231.6,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 26.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a0b3",
     "data": "24/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "231.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "243.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a0b4"
+    "odometroInicial": 231.6,
+    "odometroFinal": 243.9,
+    "kmsPercorridos": 12.3,
+    "kmsAcumulado": 39.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0b5",
     "data": "25/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "243.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "258"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a0b6"
+    "odometroInicial": 243.9,
+    "odometroFinal": 258,
+    "kmsPercorridos": 14.1,
+    "kmsAcumulado": 53.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a0b7",
     "data": "26/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "258"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "271.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a0b8"
+    "odometroInicial": 258,
+    "odometroFinal": 271.1,
+    "kmsPercorridos": 13.1,
+    "kmsAcumulado": 66.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a0b9",
     "data": "27/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "271.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "284.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ba"
+    "odometroInicial": 271.1,
+    "odometroFinal": 284.8,
+    "kmsPercorridos": 13.7,
+    "kmsAcumulado": 80
   },
   {
-    "id": "68dbe57dff00bdf3c094a0bb",
     "data": "28/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "284.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "290.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6"
-    },
-    "_id": "68dbe57dff00bdf3c094a0bc"
+    "odometroInicial": 284.8,
+    "odometroFinal": 290.8,
+    "kmsPercorridos": 6,
+    "kmsAcumulado": 86
   },
   {
-    "id": "68dbe57dff00bdf3c094a0bd",
     "data": "29/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "290.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "306.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a0be"
+    "odometroInicial": 290.8,
+    "odometroFinal": 306.3,
+    "kmsPercorridos": 15.5,
+    "kmsAcumulado": 101.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a0bf",
     "data": "30/09/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "306.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "319"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0c0"
+    "odometroInicial": 306.3,
+    "odometroFinal": 319,
+    "kmsPercorridos": 12.7,
+    "kmsAcumulado": 114.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a0c1",
     "data": "01/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "319"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "326.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a0c2"
+    "odometroInicial": 319,
+    "odometroFinal": 326.8,
+    "kmsPercorridos": 7.8,
+    "kmsAcumulado": 122
   },
   {
-    "id": "68dbe57dff00bdf3c094a0c3",
     "data": "02/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "326.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "341.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a0c4"
+    "odometroInicial": 326.8,
+    "odometroFinal": 341.9,
+    "kmsPercorridos": 15.1,
+    "kmsAcumulado": 137.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0c5",
     "data": "03/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "341.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "352.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a0c6"
+    "odometroInicial": 341.9,
+    "odometroFinal": 352.4,
+    "kmsPercorridos": 10.5,
+    "kmsAcumulado": 147.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0c7",
     "data": "04/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "352.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "370.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "18"
-    },
-    "_id": "68dbe57dff00bdf3c094a0c8"
+    "odometroInicial": 352.4,
+    "odometroFinal": 370.4,
+    "kmsPercorridos": 18,
+    "kmsAcumulado": 165.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0c9",
     "data": "05/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "370.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "372.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ca"
+    "odometroInicial": 370.4,
+    "odometroFinal": 372.4,
+    "kmsPercorridos": 2,
+    "kmsAcumulado": 167.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0cb",
     "data": "06/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "372.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "372.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a0cc"
+    "odometroInicial": 372.4,
+    "odometroFinal": 372.4,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 167.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0cd",
     "data": "07/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "372.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "372.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ce"
+    "odometroInicial": 372.4,
+    "odometroFinal": 372.4,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 167.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0cf",
     "data": "08/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "372.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "384.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0d0"
+    "odometroInicial": 372.4,
+    "odometroFinal": 384.1,
+    "kmsPercorridos": 11.7,
+    "kmsAcumulado": 179.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a0d1",
     "data": "09/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "384.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "389.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a0d2"
+    "odometroInicial": 384.1,
+    "odometroFinal": 389.5,
+    "kmsPercorridos": 5.4,
+    "kmsAcumulado": 184.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a0d3",
     "data": "10/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "389.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "394.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a0d4"
+    "odometroInicial": 389.5,
+    "odometroFinal": 394.1,
+    "kmsPercorridos": 4.6,
+    "kmsAcumulado": 189.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a0d5",
     "data": "11/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "394.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "398.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0d6"
+    "odometroInicial": 394.1,
+    "odometroFinal": 398.8,
+    "kmsPercorridos": 4.7,
+    "kmsAcumulado": 194
   },
   {
-    "id": "68dbe57dff00bdf3c094a0d7",
     "data": "12/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 26,
-    "odometroInicial": {
-      "$numberDecimal": "398.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "403.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a0d8"
+    "odometroInicial": 398.8,
+    "odometroFinal": 403.9,
+    "kmsPercorridos": 5.1,
+    "kmsAcumulado": 199.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0d9",
     "data": "13/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 27,
-    "odometroInicial": {
-      "$numberDecimal": "403.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "403.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a0da"
+    "odometroInicial": 403.9,
+    "odometroFinal": 403.9,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 199.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0db",
     "data": "14/10/24",
-    "periodo": 2,
+    "intervalo": 2,
     "dia": 28,
-    "odometroInicial": {
-      "$numberDecimal": "403.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "409.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6"
-    },
-    "_id": "68dbe57dff00bdf3c094a0dc"
+    "odometroInicial": 403.9,
+    "odometroFinal": 409.9,
+    "kmsPercorridos": 6,
+    "kmsAcumulado": 205.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0dd",
     "data": "15/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "409.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "412.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3"
-    },
-    "_id": "68dbe57dff00bdf3c094a0de"
+    "odometroInicial": 409.9,
+    "odometroFinal": 412.9,
+    "kmsPercorridos": 3,
+    "kmsAcumulado": 208.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a0df",
     "data": "15/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "412.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "417.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0e0"
+    "odometroInicial": 412.9,
+    "odometroFinal": 417.6,
+    "kmsPercorridos": 4.7,
+    "kmsAcumulado": 4.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a0e1",
     "data": "16/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "417.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "430.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a0e2"
+    "odometroInicial": 417.6,
+    "odometroFinal": 430.5,
+    "kmsPercorridos": 12.9,
+    "kmsAcumulado": 17.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a0e3",
     "data": "17/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "430.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "443.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a0e4"
+    "odometroInicial": 430.5,
+    "odometroFinal": 443.8,
+    "kmsPercorridos": 13.3,
+    "kmsAcumulado": 30.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a0e5",
     "data": "18/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "443.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "459.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16"
-    },
-    "_id": "68dbe57dff00bdf3c094a0e6"
+    "odometroInicial": 443.8,
+    "odometroFinal": 459.8,
+    "kmsPercorridos": 16,
+    "kmsAcumulado": 46.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a0e7",
     "data": "19/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "459.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "466.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a0e8"
+    "odometroInicial": 459.8,
+    "odometroFinal": 466.3,
+    "kmsPercorridos": 6.5,
+    "kmsAcumulado": 53.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a0e9",
     "data": "20/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "466.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "466.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ea"
+    "odometroInicial": 466.3,
+    "odometroFinal": 466.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 53.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a0eb",
     "data": "21/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "466.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "466.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ec"
+    "odometroInicial": 466.3,
+    "odometroFinal": 466.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 53.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a0ed",
     "data": "22/10/24",
-    "periodo": 3,
+    "intervalo": 3,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "466.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "482.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16"
-    },
-    "_id": "68dbe57dff00bdf3c094a0ee"
+    "odometroInicial": 466.3,
+    "odometroFinal": 482.3,
+    "kmsPercorridos": 16,
+    "kmsAcumulado": 69.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a0ef",
     "data": "23/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "482.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "494.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a0f0"
+    "odometroInicial": 482.3,
+    "odometroFinal": 494.1,
+    "kmsPercorridos": 11.8,
+    "kmsAcumulado": 81.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a0f1",
     "data": "23/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "494.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "496.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a0f2"
+    "odometroInicial": 494.1,
+    "odometroFinal": 496.6,
+    "kmsPercorridos": 2.5,
+    "kmsAcumulado": 2.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a0f3",
     "data": "24/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "496.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "501"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a0f4"
+    "odometroInicial": 496.6,
+    "odometroFinal": 501,
+    "kmsPercorridos": 4.4,
+    "kmsAcumulado": 6.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a0f5",
     "data": "25/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "501"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "509"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8"
-    },
-    "_id": "68dbe57dff00bdf3c094a0f6"
+    "odometroInicial": 501,
+    "odometroFinal": 509,
+    "kmsPercorridos": 8,
+    "kmsAcumulado": 14.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a0f7",
     "data": "26/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "509"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "514.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a0f8"
+    "odometroInicial": 509,
+    "odometroFinal": 514.8,
+    "kmsPercorridos": 5.8,
+    "kmsAcumulado": 20.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a0f9",
     "data": "27/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "514.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "516.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "1.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a0fa"
+    "odometroInicial": 514.8,
+    "odometroFinal": 516.1,
+    "kmsPercorridos": 1.3,
+    "kmsAcumulado": 22
   },
   {
-    "id": "68dbe57dff00bdf3c094a0fb",
     "data": "28/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "516.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "519.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a0fc"
+    "odometroInicial": 516.1,
+    "odometroFinal": 519.9,
+    "kmsPercorridos": 3.8,
+    "kmsAcumulado": 25.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a0fd",
     "data": "29/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "519.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "531.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a0fe"
+    "odometroInicial": 519.9,
+    "odometroFinal": 531.6,
+    "kmsPercorridos": 11.7,
+    "kmsAcumulado": 37.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a0ff",
     "data": "30/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "531.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "539.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8"
-    },
-    "_id": "68dbe57dff00bdf3c094a100"
+    "odometroInicial": 531.6,
+    "odometroFinal": 539.6,
+    "kmsPercorridos": 8,
+    "kmsAcumulado": 45.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a101",
     "data": "31/10/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "539.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "548"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a102"
+    "odometroInicial": 539.6,
+    "odometroFinal": 548,
+    "kmsPercorridos": 8.4,
+    "kmsAcumulado": 53.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a103",
     "data": "01/11/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "548"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "559.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a104"
+    "odometroInicial": 548,
+    "odometroFinal": 559.4,
+    "kmsPercorridos": 11.4,
+    "kmsAcumulado": 65.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a105",
     "data": "02/11/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "559.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "562.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3"
-    },
-    "_id": "68dbe57dff00bdf3c094a106"
+    "odometroInicial": 559.4,
+    "odometroFinal": 562.4,
+    "kmsPercorridos": 3,
+    "kmsAcumulado": 68.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a107",
     "data": "03/11/24",
-    "periodo": 4,
+    "intervalo": 4,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "562.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "562.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a108"
+    "odometroInicial": 562.4,
+    "odometroFinal": 562.4,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 68.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a109",
     "data": "04/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "562.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "565"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a10a"
+    "odometroInicial": 562.4,
+    "odometroFinal": 565,
+    "kmsPercorridos": 2.6,
+    "kmsAcumulado": 70.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a10b",
     "data": "04/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "565"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "579.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a10c"
+    "odometroInicial": 565,
+    "odometroFinal": 579.5,
+    "kmsPercorridos": 14.5,
+    "kmsAcumulado": 14.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a10d",
     "data": "05/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "579.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "590.07"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.57"
-    },
-    "_id": "68dbe57dff00bdf3c094a10e"
+    "odometroInicial": 579.5,
+    "odometroFinal": 590.07,
+    "kmsPercorridos": 10.57,
+    "kmsAcumulado": 25.07
   },
   {
-    "id": "68dbe57dff00bdf3c094a10f",
     "data": "06/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "590.07"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "601.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.83"
-    },
-    "_id": "68dbe57dff00bdf3c094a110"
+    "odometroInicial": 590.07,
+    "odometroFinal": 601.9,
+    "kmsPercorridos": 11.83,
+    "kmsAcumulado": 36.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a111",
     "data": "07/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "601.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "605"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a112"
+    "odometroInicial": 601.9,
+    "odometroFinal": 605,
+    "kmsPercorridos": 3.1,
+    "kmsAcumulado": 40
   },
   {
-    "id": "68dbe57dff00bdf3c094a113",
     "data": "08/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "605"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "614"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9"
-    },
-    "_id": "68dbe57dff00bdf3c094a114"
+    "odometroInicial": 605,
+    "odometroFinal": 614,
+    "kmsPercorridos": 9,
+    "kmsAcumulado": 49
   },
   {
-    "id": "68dbe57dff00bdf3c094a115",
     "data": "09/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "614"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "618.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a116"
+    "odometroInicial": 614,
+    "odometroFinal": 618.9,
+    "kmsPercorridos": 4.9,
+    "kmsAcumulado": 53.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a117",
     "data": "10/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "618.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "618.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a118"
+    "odometroInicial": 618.9,
+    "odometroFinal": 618.9,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 53.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a119",
     "data": "11/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "618.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "621.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a11a"
+    "odometroInicial": 618.9,
+    "odometroFinal": 621.7,
+    "kmsPercorridos": 2.8,
+    "kmsAcumulado": 56.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a11b",
     "data": "12/11/24",
-    "periodo": 5,
+    "intervalo": 5,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "621.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "638.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a11c"
+    "odometroInicial": 621.7,
+    "odometroFinal": 638.1,
+    "kmsPercorridos": 16.4,
+    "kmsAcumulado": 73.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a11d",
     "data": "13/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "638.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "638.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a11e"
+    "odometroInicial": 638.1,
+    "odometroFinal": 638.1,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 73.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a11f",
     "data": "13/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "638.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "651.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a120"
+    "odometroInicial": 638.1,
+    "odometroFinal": 651.5,
+    "kmsPercorridos": 13.4,
+    "kmsAcumulado": 13.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a121",
     "data": "14/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "651.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "664.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a122"
+    "odometroInicial": 651.5,
+    "odometroFinal": 664.3,
+    "kmsPercorridos": 12.8,
+    "kmsAcumulado": 26.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a123",
     "data": "15/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "664.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "664.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a124"
+    "odometroInicial": 664.3,
+    "odometroFinal": 664.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 26.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a125",
     "data": "16/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "664.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "674.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a126"
+    "odometroInicial": 664.3,
+    "odometroFinal": 674.2,
+    "kmsPercorridos": 9.9,
+    "kmsAcumulado": 36.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a127",
     "data": "17/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "674.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "674.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a128"
+    "odometroInicial": 674.2,
+    "odometroFinal": 674.2,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 36.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a129",
     "data": "18/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "674.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "678.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a12a"
+    "odometroInicial": 674.2,
+    "odometroFinal": 678.1,
+    "kmsPercorridos": 3.9,
+    "kmsAcumulado": 40
   },
   {
-    "id": "68dbe57dff00bdf3c094a12b",
     "data": "19/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "678.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "685.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a12c"
+    "odometroInicial": 678.1,
+    "odometroFinal": 685.9,
+    "kmsPercorridos": 7.8,
+    "kmsAcumulado": 47.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a12d",
     "data": "20/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "685.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "685.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a12e"
+    "odometroInicial": 685.9,
+    "odometroFinal": 685.9,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 47.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a12f",
     "data": "21/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "685.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "694.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a130"
+    "odometroInicial": 685.9,
+    "odometroFinal": 694.2,
+    "kmsPercorridos": 8.3,
+    "kmsAcumulado": 56.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a131",
     "data": "22/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "694.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "694.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a132"
+    "odometroInicial": 694.2,
+    "odometroFinal": 694.2,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 56.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a133",
     "data": "23/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "694.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "700.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a134"
+    "odometroInicial": 694.2,
+    "odometroFinal": 700.7,
+    "kmsPercorridos": 6.5,
+    "kmsAcumulado": 62.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a135",
     "data": "24/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "700.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "700.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a136"
+    "odometroInicial": 700.7,
+    "odometroFinal": 700.7,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 62.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a137",
     "data": "25/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "700.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "708.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a138"
+    "odometroInicial": 700.7,
+    "odometroFinal": 708.5,
+    "kmsPercorridos": 7.8,
+    "kmsAcumulado": 70.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a139",
     "data": "26/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "708.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "728.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "20.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a13a"
+    "odometroInicial": 708.5,
+    "odometroFinal": 728.9,
+    "kmsPercorridos": 20.4,
+    "kmsAcumulado": 90.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a13b",
     "data": "27/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "728.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "741.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a13c"
+    "odometroInicial": 728.9,
+    "odometroFinal": 741.1,
+    "kmsPercorridos": 12.2,
+    "kmsAcumulado": 103
   },
   {
-    "id": "68dbe57dff00bdf3c094a13d",
     "data": "28/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "741.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "754.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a13e"
+    "odometroInicial": 741.1,
+    "odometroFinal": 754.6,
+    "kmsPercorridos": 13.5,
+    "kmsAcumulado": 116.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a13f",
     "data": "29/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "754.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "768.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a140"
+    "odometroInicial": 754.6,
+    "odometroFinal": 768.1,
+    "kmsPercorridos": 13.5,
+    "kmsAcumulado": 130
   },
   {
-    "id": "68dbe57dff00bdf3c094a141",
     "data": "30/11/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "768.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "778.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a142"
+    "odometroInicial": 768.1,
+    "odometroFinal": 778.6,
+    "kmsPercorridos": 10.5,
+    "kmsAcumulado": 140.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a143",
     "data": "01/12/24",
-    "periodo": 6,
+    "intervalo": 6,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "778.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "781.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a144"
+    "odometroInicial": 778.6,
+    "odometroFinal": 781.5,
+    "kmsPercorridos": 2.9,
+    "kmsAcumulado": 143.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a145",
     "data": "02/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "781.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "788.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7"
-    },
-    "_id": "68dbe57dff00bdf3c094a146"
+    "odometroInicial": 781.5,
+    "odometroFinal": 788.5,
+    "kmsPercorridos": 7,
+    "kmsAcumulado": 150.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a147",
     "data": "02/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "788.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "805.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a148"
+    "odometroInicial": 788.5,
+    "odometroFinal": 805.3,
+    "kmsPercorridos": 16.8,
+    "kmsAcumulado": 16.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a149",
     "data": "03/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "805.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "818.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a14a"
+    "odometroInicial": 805.3,
+    "odometroFinal": 818.1,
+    "kmsPercorridos": 12.8,
+    "kmsAcumulado": 29.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a14b",
     "data": "04/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "818.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "831.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13"
-    },
-    "_id": "68dbe57dff00bdf3c094a14c"
+    "odometroInicial": 818.1,
+    "odometroFinal": 831.1,
+    "kmsPercorridos": 13,
+    "kmsAcumulado": 42.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a14d",
     "data": "05/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "831.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "843.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a14e"
+    "odometroInicial": 831.1,
+    "odometroFinal": 843.2,
+    "kmsPercorridos": 12.1,
+    "kmsAcumulado": 54.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a14f",
     "data": "06/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "843.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "862.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "19.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a150"
+    "odometroInicial": 843.2,
+    "odometroFinal": 862.8,
+    "kmsPercorridos": 19.6,
+    "kmsAcumulado": 74.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a151",
     "data": "07/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "862.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "871.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9"
-    },
-    "_id": "68dbe57dff00bdf3c094a152"
+    "odometroInicial": 862.8,
+    "odometroFinal": 871.8,
+    "kmsPercorridos": 9,
+    "kmsAcumulado": 83.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a153",
     "data": "08/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "871.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "871.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a154"
+    "odometroInicial": 871.8,
+    "odometroFinal": 871.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 83.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a155",
     "data": "09/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "871.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "871.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a156"
+    "odometroInicial": 871.8,
+    "odometroFinal": 871.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 83.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a157",
     "data": "10/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "871.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "886.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15"
-    },
-    "_id": "68dbe57dff00bdf3c094a158"
+    "odometroInicial": 871.8,
+    "odometroFinal": 886.8,
+    "kmsPercorridos": 15,
+    "kmsAcumulado": 98.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a159",
     "data": "11/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "886.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "900.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a15a"
+    "odometroInicial": 886.8,
+    "odometroFinal": 900.3,
+    "kmsPercorridos": 13.5,
+    "kmsAcumulado": 111.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a15b",
     "data": "12/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "900.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "914.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14"
-    },
-    "_id": "68dbe57dff00bdf3c094a15c"
+    "odometroInicial": 900.3,
+    "odometroFinal": 914.3,
+    "kmsPercorridos": 14,
+    "kmsAcumulado": 125.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a15d",
     "data": "13/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "914.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "926.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a15e"
+    "odometroInicial": 914.3,
+    "odometroFinal": 926.5,
+    "kmsPercorridos": 12.2,
+    "kmsAcumulado": 138
   },
   {
-    "id": "68dbe57dff00bdf3c094a15f",
     "data": "14/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "926.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "935.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a160"
+    "odometroInicial": 926.5,
+    "odometroFinal": 935.6,
+    "kmsPercorridos": 9.1,
+    "kmsAcumulado": 147.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a161",
     "data": "15/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "935.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "939.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a162"
+    "odometroInicial": 935.6,
+    "odometroFinal": 939.5,
+    "kmsPercorridos": 3.9,
+    "kmsAcumulado": 151
   },
   {
-    "id": "68dbe57dff00bdf3c094a163",
     "data": "16/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "939.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "943.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a164"
+    "odometroInicial": 939.5,
+    "odometroFinal": 943.7,
+    "kmsPercorridos": 4.2,
+    "kmsAcumulado": 155.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a165",
     "data": "17/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "943.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "950.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a166"
+    "odometroInicial": 943.7,
+    "odometroFinal": 950.3,
+    "kmsPercorridos": 6.6,
+    "kmsAcumulado": 161.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a167",
     "data": "18/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "950.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "955.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a168"
+    "odometroInicial": 950.3,
+    "odometroFinal": 955.7,
+    "kmsPercorridos": 5.4,
+    "kmsAcumulado": 167.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a169",
     "data": "19/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "955.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "960.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a16a"
+    "odometroInicial": 955.7,
+    "odometroFinal": 960.6,
+    "kmsPercorridos": 4.9,
+    "kmsAcumulado": 172.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a16b",
     "data": "20/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "960.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "977.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "17.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a16c"
+    "odometroInicial": 960.6,
+    "odometroFinal": 977.7,
+    "kmsPercorridos": 17.1,
+    "kmsAcumulado": 189.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a16d",
     "data": "21/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "977.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "980.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a16e"
+    "odometroInicial": 977.7,
+    "odometroFinal": 980.9,
+    "kmsPercorridos": 3.2,
+    "kmsAcumulado": 192.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a16f",
     "data": "22/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "980.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "983.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a170"
+    "odometroInicial": 980.9,
+    "odometroFinal": 983.6,
+    "kmsPercorridos": 2.7,
+    "kmsAcumulado": 195.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a171",
     "data": "23/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "983.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "989.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a172"
+    "odometroInicial": 983.6,
+    "odometroFinal": 989.3,
+    "kmsPercorridos": 5.7,
+    "kmsAcumulado": 200.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a173",
     "data": "24/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "989.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "998.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9"
-    },
-    "_id": "68dbe57dff00bdf3c094a174"
+    "odometroInicial": 989.3,
+    "odometroFinal": 998.3,
+    "kmsPercorridos": 9,
+    "kmsAcumulado": 209.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a175",
     "data": "25/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "998.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "998.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a176"
+    "odometroInicial": 998.3,
+    "odometroFinal": 998.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 209.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a177",
     "data": "26/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 26,
-    "odometroInicial": {
-      "$numberDecimal": "998.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "NaN"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5"
-    },
-    "_id": "68dbe57dff00bdf3c094a178"
+    "odometroInicial": 998.3,
+    "odometroFinal": null,
+    "kmsPercorridos": 5,
+    "kmsAcumulado": 214.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a179",
     "data": "27/12/24",
-    "periodo": 7,
+    "intervalo": 7,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "NaN"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "NaN"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6"
-    },
-    "_id": "68dbe57dff00bdf3c094a17a"
+    "odometroInicial": null,
+    "odometroFinal": null,
+    "kmsPercorridos": 6,
+    "kmsAcumulado": 220.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a17b",
     "data": "27/12/24",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "NaN"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "NaN"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a17c"
+    "odometroInicial": null,
+    "odometroFinal": null,
+    "kmsPercorridos": 6.6,
+    "kmsAcumulado": 6.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a17d",
     "data": "28/12/24",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "NaN"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "15.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "NaN"
-    },
-    "_id": "68dbe57dff00bdf3c094a17e"
+    "odometroInicial": null,
+    "odometroFinal": 15.9,
+    "kmsPercorridos": null,
+    "kmsAcumulado": 6.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a17f",
     "data": "28/12/24",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "15.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "28.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a180"
+    "odometroInicial": 15.9,
+    "odometroFinal": 28.2,
+    "kmsPercorridos": 12.3,
+    "kmsAcumulado": 18.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a181",
     "data": "29/12/24",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "28.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "28.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a182"
+    "odometroInicial": 28.2,
+    "odometroFinal": 28.2,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 18.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a183",
     "data": "30/12/24",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "28.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "39.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a184"
+    "odometroInicial": 28.2,
+    "odometroFinal": 39.4,
+    "kmsPercorridos": 11.2,
+    "kmsAcumulado": 30.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a185",
     "data": "31/12/24",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "39.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "60.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "20.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a186"
+    "odometroInicial": 39.4,
+    "odometroFinal": 60.1,
+    "kmsPercorridos": 20.7,
+    "kmsAcumulado": 50.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a187",
     "data": "01/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "60.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "65.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a188"
+    "odometroInicial": 60.1,
+    "odometroFinal": 65.8,
+    "kmsPercorridos": 5.7,
+    "kmsAcumulado": 56.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a189",
     "data": "02/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "65.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "70.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a18a"
+    "odometroInicial": 65.8,
+    "odometroFinal": 70.2,
+    "kmsPercorridos": 4.4,
+    "kmsAcumulado": 60.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a18b",
     "data": "03/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "70.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "79.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9"
-    },
-    "_id": "68dbe57dff00bdf3c094a18c"
+    "odometroInicial": 70.2,
+    "odometroFinal": 79.2,
+    "kmsPercorridos": 9,
+    "kmsAcumulado": 69.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a18d",
     "data": "04/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "79.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "83.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a18e"
+    "odometroInicial": 79.2,
+    "odometroFinal": 83.8,
+    "kmsPercorridos": 4.6,
+    "kmsAcumulado": 74.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a18f",
     "data": "05/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "83.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "89.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a190"
+    "odometroInicial": 83.8,
+    "odometroFinal": 89.1,
+    "kmsPercorridos": 5.3,
+    "kmsAcumulado": 79.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a191",
     "data": "06/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "89.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "95.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a192"
+    "odometroInicial": 89.1,
+    "odometroFinal": 95.3,
+    "kmsPercorridos": 6.2,
+    "kmsAcumulado": 86
   },
   {
-    "id": "68dbe57dff00bdf3c094a193",
     "data": "07/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "95.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "95.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a194"
+    "odometroInicial": 95.3,
+    "odometroFinal": 95.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 86
   },
   {
-    "id": "68dbe57dff00bdf3c094a195",
     "data": "08/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "95.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "95.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a196"
+    "odometroInicial": 95.3,
+    "odometroFinal": 95.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 86
   },
   {
-    "id": "68dbe57dff00bdf3c094a197",
     "data": "09/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "95.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "95.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a198"
+    "odometroInicial": 95.3,
+    "odometroFinal": 95.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 86
   },
   {
-    "id": "68dbe57dff00bdf3c094a199",
     "data": "10/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "95.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "95.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a19a"
+    "odometroInicial": 95.3,
+    "odometroFinal": 95.3,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 86
   },
   {
-    "id": "68dbe57dff00bdf3c094a19b",
     "data": "11/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "95.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "100"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a19c"
+    "odometroInicial": 95.3,
+    "odometroFinal": 100,
+    "kmsPercorridos": 4.7,
+    "kmsAcumulado": 90.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a19d",
     "data": "12/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "100"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "100"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a19e"
+    "odometroInicial": 100,
+    "odometroFinal": 100,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 90.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a19f",
     "data": "13/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "100"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "108.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a1a0"
+    "odometroInicial": 100,
+    "odometroFinal": 108.9,
+    "kmsPercorridos": 8.9,
+    "kmsAcumulado": 99.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a1a1",
     "data": "14/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "108.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "118.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a1a2"
+    "odometroInicial": 108.9,
+    "odometroFinal": 118.1,
+    "kmsPercorridos": 9.2,
+    "kmsAcumulado": 108.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a1a3",
     "data": "15/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "118.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "123.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a1a4"
+    "odometroInicial": 118.1,
+    "odometroFinal": 123.5,
+    "kmsPercorridos": 5.4,
+    "kmsAcumulado": 114.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a1a5",
     "data": "16/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "123.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "138.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a1a6"
+    "odometroInicial": 123.5,
+    "odometroFinal": 138.3,
+    "kmsPercorridos": 14.8,
+    "kmsAcumulado": 129
   },
   {
-    "id": "68dbe57dff00bdf3c094a1a7",
     "data": "17/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "138.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "148.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a1a8"
+    "odometroInicial": 138.3,
+    "odometroFinal": 148.1,
+    "kmsPercorridos": 9.8,
+    "kmsAcumulado": 138.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a1a9",
     "data": "18/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "148.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "153.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a1aa"
+    "odometroInicial": 148.1,
+    "odometroFinal": 153.2,
+    "kmsPercorridos": 5.1,
+    "kmsAcumulado": 143.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a1ab",
     "data": "19/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 26,
-    "odometroInicial": {
-      "$numberDecimal": "153.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "153.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ac"
+    "odometroInicial": 153.2,
+    "odometroFinal": 153.2,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 143.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a1ad",
     "data": "20/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 27,
-    "odometroInicial": {
-      "$numberDecimal": "153.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "156.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ae"
+    "odometroInicial": 153.2,
+    "odometroFinal": 156.5,
+    "kmsPercorridos": 3.3,
+    "kmsAcumulado": 147.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a1af",
     "data": "21/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 28,
-    "odometroInicial": {
-      "$numberDecimal": "156.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "158"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "1.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a1b0"
+    "odometroInicial": 156.5,
+    "odometroFinal": 158,
+    "kmsPercorridos": 1.5,
+    "kmsAcumulado": 148.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a1b1",
     "data": "22/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 29,
-    "odometroInicial": {
-      "$numberDecimal": "158"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "165.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a1b2"
+    "odometroInicial": 158,
+    "odometroFinal": 165.3,
+    "kmsPercorridos": 7.3,
+    "kmsAcumulado": 156
   },
   {
-    "id": "68dbe57dff00bdf3c094a1b3",
     "data": "23/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 30,
-    "odometroInicial": {
-      "$numberDecimal": "165.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "171.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a1b4"
+    "odometroInicial": 165.3,
+    "odometroFinal": 171.8,
+    "kmsPercorridos": 6.5,
+    "kmsAcumulado": 162.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1b5",
     "data": "24/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 31,
-    "odometroInicial": {
-      "$numberDecimal": "171.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "171.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1b6"
+    "odometroInicial": 171.8,
+    "odometroFinal": 171.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 162.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1b7",
     "data": "25/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 32,
-    "odometroInicial": {
-      "$numberDecimal": "171.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "172.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a1b8"
+    "odometroInicial": 171.8,
+    "odometroFinal": 172.3,
+    "kmsPercorridos": 0.5,
+    "kmsAcumulado": 163
   },
   {
-    "id": "68dbe57dff00bdf3c094a1b9",
     "data": "26/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 33,
-    "odometroInicial": {
-      "$numberDecimal": "172.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "180.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ba"
+    "odometroInicial": 172.3,
+    "odometroFinal": 180.8,
+    "kmsPercorridos": 8.5,
+    "kmsAcumulado": 171.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1bb",
     "data": "27/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 34,
-    "odometroInicial": {
-      "$numberDecimal": "180.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "180.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1bc"
+    "odometroInicial": 180.8,
+    "odometroFinal": 180.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 171.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1bd",
     "data": "28/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 35,
-    "odometroInicial": {
-      "$numberDecimal": "180.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "180.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1be"
+    "odometroInicial": 180.8,
+    "odometroFinal": 180.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 171.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1bf",
     "data": "29/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 36,
-    "odometroInicial": {
-      "$numberDecimal": "180.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "180.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1c0"
+    "odometroInicial": 180.8,
+    "odometroFinal": 180.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 171.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1c1",
     "data": "30/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 37,
-    "odometroInicial": {
-      "$numberDecimal": "180.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "190.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a1c2"
+    "odometroInicial": 180.8,
+    "odometroFinal": 190.4,
+    "kmsPercorridos": 9.6,
+    "kmsAcumulado": 181.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a1c3",
     "data": "31/01/25",
-    "periodo": 8,
+    "intervalo": 8,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "190.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "199.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a1c4"
+    "odometroInicial": 190.4,
+    "odometroFinal": 199.7,
+    "kmsPercorridos": 9.3,
+    "kmsAcumulado": 190.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a1c5",
     "data": "31/01/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "199.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "201.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a1c6"
+    "odometroInicial": 199.7,
+    "odometroFinal": 201.9,
+    "kmsPercorridos": 2.2,
+    "kmsAcumulado": 2.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a1c7",
     "data": "01/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "201.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "209.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a1c8"
+    "odometroInicial": 201.9,
+    "odometroFinal": 209.6,
+    "kmsPercorridos": 7.7,
+    "kmsAcumulado": 9.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a1c9",
     "data": "02/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "209.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "209.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ca"
+    "odometroInicial": 209.6,
+    "odometroFinal": 209.6,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 9.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a1cb",
     "data": "03/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "209.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "225.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a1cc"
+    "odometroInicial": 209.6,
+    "odometroFinal": 225.7,
+    "kmsPercorridos": 16.1,
+    "kmsAcumulado": 26
   },
   {
-    "id": "68dbe57dff00bdf3c094a1cd",
     "data": "04/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "225.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "225.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ce"
+    "odometroInicial": 225.7,
+    "odometroFinal": 225.7,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 26
   },
   {
-    "id": "68dbe57dff00bdf3c094a1cf",
     "data": "05/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "225.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "237"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a1d0"
+    "odometroInicial": 225.7,
+    "odometroFinal": 237,
+    "kmsPercorridos": 11.3,
+    "kmsAcumulado": 37.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a1d1",
     "data": "06/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "237"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "242.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a1d2"
+    "odometroInicial": 237,
+    "odometroFinal": 242.4,
+    "kmsPercorridos": 5.4,
+    "kmsAcumulado": 42.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a1d3",
     "data": "07/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "242.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "250.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a1d4"
+    "odometroInicial": 242.4,
+    "odometroFinal": 250.1,
+    "kmsPercorridos": 7.7,
+    "kmsAcumulado": 50.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a1d5",
     "data": "08/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "250.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "252.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a1d6"
+    "odometroInicial": 250.1,
+    "odometroFinal": 252.9,
+    "kmsPercorridos": 2.8,
+    "kmsAcumulado": 53.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a1d7",
     "data": "09/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "252.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "256.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a1d8"
+    "odometroInicial": 252.9,
+    "odometroFinal": 256.8,
+    "kmsPercorridos": 3.9,
+    "kmsAcumulado": 57.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a1d9",
     "data": "10/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "256.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "269.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13"
-    },
-    "_id": "68dbe57dff00bdf3c094a1da"
+    "odometroInicial": 256.8,
+    "odometroFinal": 269.8,
+    "kmsPercorridos": 13,
+    "kmsAcumulado": 70.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a1db",
     "data": "11/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "269.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "285"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a1dc"
+    "odometroInicial": 269.8,
+    "odometroFinal": 285,
+    "kmsPercorridos": 15.2,
+    "kmsAcumulado": 85.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a1dd",
     "data": "12/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "285"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "293.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a1de"
+    "odometroInicial": 285,
+    "odometroFinal": 293.8,
+    "kmsPercorridos": 8.8,
+    "kmsAcumulado": 94.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a1df",
     "data": "13/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "293.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "314.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "20.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a1e0"
+    "odometroInicial": 293.8,
+    "odometroFinal": 314.2,
+    "kmsPercorridos": 20.4,
+    "kmsAcumulado": 114.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1e1",
     "data": "14/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "314.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "326.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a1e2"
+    "odometroInicial": 314.2,
+    "odometroFinal": 326.6,
+    "kmsPercorridos": 12.4,
+    "kmsAcumulado": 126.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a1e3",
     "data": "15/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "326.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "328.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "1.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a1e4"
+    "odometroInicial": 326.6,
+    "odometroFinal": 328.4,
+    "kmsPercorridos": 1.8,
+    "kmsAcumulado": 128.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a1e5",
     "data": "16/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "328.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "328.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1e6"
+    "odometroInicial": 328.4,
+    "odometroFinal": 328.4,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 128.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a1e7",
     "data": "17/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "328.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "339.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a1e8"
+    "odometroInicial": 328.4,
+    "odometroFinal": 339.1,
+    "kmsPercorridos": 10.7,
+    "kmsAcumulado": 139.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a1e9",
     "data": "18/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "339.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "349.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ea"
+    "odometroInicial": 339.1,
+    "odometroFinal": 349.8,
+    "kmsPercorridos": 10.7,
+    "kmsAcumulado": 150.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a1eb",
     "data": "19/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "349.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "357.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ec"
+    "odometroInicial": 349.8,
+    "odometroFinal": 357.3,
+    "kmsPercorridos": 7.5,
+    "kmsAcumulado": 157.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a1ed",
     "data": "20/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "357.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "377.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "20"
-    },
-    "_id": "68dbe57dff00bdf3c094a1ee"
+    "odometroInicial": 357.3,
+    "odometroFinal": 377.3,
+    "kmsPercorridos": 20,
+    "kmsAcumulado": 177.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a1ef",
     "data": "21/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "377.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "391"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a1f0"
+    "odometroInicial": 377.3,
+    "odometroFinal": 391,
+    "kmsPercorridos": 13.7,
+    "kmsAcumulado": 191.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a1f1",
     "data": "22/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "391"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "398"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7"
-    },
-    "_id": "68dbe57dff00bdf3c094a1f2"
+    "odometroInicial": 391,
+    "odometroFinal": 398,
+    "kmsPercorridos": 7,
+    "kmsAcumulado": 198.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a1f3",
     "data": "23/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "398"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "398"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a1f4"
+    "odometroInicial": 398,
+    "odometroFinal": 398,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 198.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a1f5",
     "data": "24/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 26,
-    "odometroInicial": {
-      "$numberDecimal": "398"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "409.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a1f6"
+    "odometroInicial": 398,
+    "odometroFinal": 409.6,
+    "kmsPercorridos": 11.6,
+    "kmsAcumulado": 209.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a1f7",
     "data": "25/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 27,
-    "odometroInicial": {
-      "$numberDecimal": "409.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "422.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a1f8"
+    "odometroInicial": 409.6,
+    "odometroFinal": 422.8,
+    "kmsPercorridos": 13.2,
+    "kmsAcumulado": 223.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a1f9",
     "data": "26/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 28,
-    "odometroInicial": {
-      "$numberDecimal": "422.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "428.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a1fa"
+    "odometroInicial": 422.8,
+    "odometroFinal": 428.7,
+    "kmsPercorridos": 5.9,
+    "kmsAcumulado": 229
   },
   {
-    "id": "68dbe57dff00bdf3c094a1fb",
     "data": "27/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 29,
-    "odometroInicial": {
-      "$numberDecimal": "428.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "442.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a1fc"
+    "odometroInicial": 428.7,
+    "odometroFinal": 442.1,
+    "kmsPercorridos": 13.4,
+    "kmsAcumulado": 242.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a1fd",
     "data": "28/02/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 30,
-    "odometroInicial": {
-      "$numberDecimal": "442.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "460.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "18.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a1fe"
+    "odometroInicial": 442.1,
+    "odometroFinal": 460.2,
+    "kmsPercorridos": 18.1,
+    "kmsAcumulado": 260.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a1ff",
     "data": "01/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 31,
-    "odometroInicial": {
-      "$numberDecimal": "460.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "475.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a200"
+    "odometroInicial": 460.2,
+    "odometroFinal": 475.7,
+    "kmsPercorridos": 15.5,
+    "kmsAcumulado": 276
   },
   {
-    "id": "68dbe57dff00bdf3c094a201",
     "data": "02/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 32,
-    "odometroInicial": {
-      "$numberDecimal": "475.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "482.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a202"
+    "odometroInicial": 475.7,
+    "odometroFinal": 482.8,
+    "kmsPercorridos": 7.1,
+    "kmsAcumulado": 283.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a203",
     "data": "03/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 33,
-    "odometroInicial": {
-      "$numberDecimal": "482.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "482.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a204"
+    "odometroInicial": 482.8,
+    "odometroFinal": 482.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 283.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a205",
     "data": "04/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 34,
-    "odometroInicial": {
-      "$numberDecimal": "482.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "486.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a206"
+    "odometroInicial": 482.8,
+    "odometroFinal": 486.1,
+    "kmsPercorridos": 3.3,
+    "kmsAcumulado": 286.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a207",
     "data": "05/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 35,
-    "odometroInicial": {
-      "$numberDecimal": "486.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "486.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a208"
+    "odometroInicial": 486.1,
+    "odometroFinal": 486.5,
+    "kmsPercorridos": 0.4,
+    "kmsAcumulado": 286.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a209",
     "data": "06/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 36,
-    "odometroInicial": {
-      "$numberDecimal": "486.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "491.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a20a"
+    "odometroInicial": 486.5,
+    "odometroFinal": 491.7,
+    "kmsPercorridos": 5.2,
+    "kmsAcumulado": 292
   },
   {
-    "id": "68dbe57dff00bdf3c094a20b",
     "data": "07/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 37,
-    "odometroInicial": {
-      "$numberDecimal": "491.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "491.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a20c"
+    "odometroInicial": 491.7,
+    "odometroFinal": 491.7,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 292
   },
   {
-    "id": "68dbe57dff00bdf3c094a20d",
     "data": "08/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 38,
-    "odometroInicial": {
-      "$numberDecimal": "491.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "498.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a20e"
+    "odometroInicial": 491.7,
+    "odometroFinal": 498.2,
+    "kmsPercorridos": 6.5,
+    "kmsAcumulado": 298.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a20f",
     "data": "09/03/25",
-    "periodo": 9,
+    "intervalo": 9,
     "dia": 39,
-    "odometroInicial": {
-      "$numberDecimal": "498.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "500.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a210"
+    "odometroInicial": 498.2,
+    "odometroFinal": 500.8,
+    "kmsPercorridos": 2.6,
+    "kmsAcumulado": 301.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a211",
     "data": "10/03/25",
-    "periodo": 10,
+    "intervalo": 10,
     "dia": 40,
-    "odometroInicial": {
-      "$numberDecimal": "500.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "506.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a212"
+    "odometroInicial": 500.8,
+    "odometroFinal": 506.7,
+    "kmsPercorridos": 5.9,
+    "kmsAcumulado": 307
   },
   {
-    "id": "68dbe57dff00bdf3c094a213",
     "data": "10/03/25",
-    "periodo": 10,
+    "intervalo": 10,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "506.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "517.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a214"
+    "odometroInicial": 506.7,
+    "odometroFinal": 517.2,
+    "kmsPercorridos": 10.5,
+    "kmsAcumulado": 10.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a215",
     "data": "11/03/25",
-    "periodo": 10,
+    "intervalo": 10,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "517.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "529.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a216"
+    "odometroInicial": 517.2,
+    "odometroFinal": 529.8,
+    "kmsPercorridos": 12.6,
+    "kmsAcumulado": 23.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a217",
     "data": "12/03/25",
-    "periodo": 10,
+    "intervalo": 10,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "529.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "553.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "24"
-    },
-    "_id": "68dbe57dff00bdf3c094a218"
+    "odometroInicial": 529.8,
+    "odometroFinal": 553.8,
+    "kmsPercorridos": 24,
+    "kmsAcumulado": 47.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a219",
     "data": "13/03/25",
-    "periodo": 10,
+    "intervalo": 10,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "553.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "568.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a21a"
+    "odometroInicial": 553.8,
+    "odometroFinal": 568.9,
+    "kmsPercorridos": 15.1,
+    "kmsAcumulado": 62.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a21b",
     "data": "14/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "568.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "580.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a21c"
+    "odometroInicial": 568.9,
+    "odometroFinal": 580.5,
+    "kmsPercorridos": 11.6,
+    "kmsAcumulado": 73.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a21d",
     "data": "14/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "580.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "585.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5"
-    },
-    "_id": "68dbe57dff00bdf3c094a21e"
+    "odometroInicial": 580.5,
+    "odometroFinal": 585.5,
+    "kmsPercorridos": 5,
+    "kmsAcumulado": 5
   },
   {
-    "id": "68dbe57dff00bdf3c094a21f",
     "data": "15/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "585.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "590.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a220"
+    "odometroInicial": 585.5,
+    "odometroFinal": 590.1,
+    "kmsPercorridos": 4.6,
+    "kmsAcumulado": 9.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a221",
     "data": "16/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "590.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "590.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a222"
+    "odometroInicial": 590.1,
+    "odometroFinal": 590.1,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 9.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a223",
     "data": "17/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "590.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "598.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a224"
+    "odometroInicial": 590.1,
+    "odometroFinal": 598.4,
+    "kmsPercorridos": 8.3,
+    "kmsAcumulado": 17.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a225",
     "data": "18/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "598.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "615.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a226"
+    "odometroInicial": 598.4,
+    "odometroFinal": 615.2,
+    "kmsPercorridos": 16.8,
+    "kmsAcumulado": 34.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a227",
     "data": "19/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "615.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "627.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12"
-    },
-    "_id": "68dbe57dff00bdf3c094a228"
+    "odometroInicial": 615.2,
+    "odometroFinal": 627.2,
+    "kmsPercorridos": 12,
+    "kmsAcumulado": 46.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a229",
     "data": "20/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "627.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "640.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a22a"
+    "odometroInicial": 627.2,
+    "odometroFinal": 640.6,
+    "kmsPercorridos": 13.4,
+    "kmsAcumulado": 60.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a22b",
     "data": "21/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "640.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "645.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a22c"
+    "odometroInicial": 640.6,
+    "odometroFinal": 645.8,
+    "kmsPercorridos": 5.2,
+    "kmsAcumulado": 65.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a22d",
     "data": "22/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "645.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "655.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10"
-    },
-    "_id": "68dbe57dff00bdf3c094a22e"
+    "odometroInicial": 645.8,
+    "odometroFinal": 655.8,
+    "kmsPercorridos": 10,
+    "kmsAcumulado": 75.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a22f",
     "data": "23/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "655.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "655.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a230"
+    "odometroInicial": 655.8,
+    "odometroFinal": 655.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 75.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a231",
     "data": "24/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "655.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "669.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a232"
+    "odometroInicial": 655.8,
+    "odometroFinal": 669.3,
+    "kmsPercorridos": 13.5,
+    "kmsAcumulado": 88.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a233",
     "data": "25/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "669.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "685"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a234"
+    "odometroInicial": 669.3,
+    "odometroFinal": 685,
+    "kmsPercorridos": 15.7,
+    "kmsAcumulado": 104.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a235",
     "data": "26/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "685"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "706.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "21.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a236"
+    "odometroInicial": 685,
+    "odometroFinal": 706.9,
+    "kmsPercorridos": 21.9,
+    "kmsAcumulado": 126.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a237",
     "data": "27/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "706.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "721.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15"
-    },
-    "_id": "68dbe57dff00bdf3c094a238"
+    "odometroInicial": 706.9,
+    "odometroFinal": 721.9,
+    "kmsPercorridos": 15,
+    "kmsAcumulado": 141.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a239",
     "data": "28/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "721.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "743.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "21.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a23a"
+    "odometroInicial": 721.9,
+    "odometroFinal": 743.4,
+    "kmsPercorridos": 21.5,
+    "kmsAcumulado": 162.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a23b",
     "data": "29/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "743.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "747.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a23c"
+    "odometroInicial": 743.4,
+    "odometroFinal": 747.6,
+    "kmsPercorridos": 4.2,
+    "kmsAcumulado": 167.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a23d",
     "data": "30/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "747.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "753.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a23e"
+    "odometroInicial": 747.6,
+    "odometroFinal": 753.4,
+    "kmsPercorridos": 5.8,
+    "kmsAcumulado": 172.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a23f",
     "data": "31/03/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "753.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "764.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a240"
+    "odometroInicial": 753.4,
+    "odometroFinal": 764.8,
+    "kmsPercorridos": 11.4,
+    "kmsAcumulado": 184.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a241",
     "data": "01/04/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "764.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "770"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a242"
+    "odometroInicial": 764.8,
+    "odometroFinal": 770,
+    "kmsPercorridos": 5.2,
+    "kmsAcumulado": 189.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a243",
     "data": "02/04/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "770"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "785.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a244"
+    "odometroInicial": 770,
+    "odometroFinal": 785.2,
+    "kmsPercorridos": 15.2,
+    "kmsAcumulado": 204.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a245",
     "data": "03/04/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "785.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "794.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a246"
+    "odometroInicial": 785.2,
+    "odometroFinal": 794.3,
+    "kmsPercorridos": 9.1,
+    "kmsAcumulado": 213.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a247",
     "data": "04/04/25",
-    "periodo": 11,
+    "intervalo": 11,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "794.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "797.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a248"
+    "odometroInicial": 794.3,
+    "odometroFinal": 797.1,
+    "kmsPercorridos": 2.8,
+    "kmsAcumulado": 216.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a249",
     "data": "04/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "797.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "811.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a24a"
+    "odometroInicial": 797.1,
+    "odometroFinal": 811.7,
+    "kmsPercorridos": 14.6,
+    "kmsAcumulado": 14.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a24b",
     "data": "05/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "811.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "811.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a24c"
+    "odometroInicial": 811.7,
+    "odometroFinal": 811.7,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 14.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a24d",
     "data": "06/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "811.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "811.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a24e"
+    "odometroInicial": 811.7,
+    "odometroFinal": 811.7,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 14.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a24f",
     "data": "07/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "811.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "821.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a250"
+    "odometroInicial": 811.7,
+    "odometroFinal": 821.6,
+    "kmsPercorridos": 9.9,
+    "kmsAcumulado": 24.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a251",
     "data": "08/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "821.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "822.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "1.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a252"
+    "odometroInicial": 821.6,
+    "odometroFinal": 822.7,
+    "kmsPercorridos": 1.1,
+    "kmsAcumulado": 25.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a253",
     "data": "09/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "822.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "834.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a254"
+    "odometroInicial": 822.7,
+    "odometroFinal": 834.5,
+    "kmsPercorridos": 11.8,
+    "kmsAcumulado": 37.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a255",
     "data": "10/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "834.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "847.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a256"
+    "odometroInicial": 834.5,
+    "odometroFinal": 847.3,
+    "kmsPercorridos": 12.8,
+    "kmsAcumulado": 50.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a257",
     "data": "11/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "847.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "860.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a258"
+    "odometroInicial": 847.3,
+    "odometroFinal": 860.9,
+    "kmsPercorridos": 13.6,
+    "kmsAcumulado": 63.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a259",
     "data": "12/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "860.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "883.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "22.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a25a"
+    "odometroInicial": 860.9,
+    "odometroFinal": 883.2,
+    "kmsPercorridos": 22.3,
+    "kmsAcumulado": 86.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a25b",
     "data": "13/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "883.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "883.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a25c"
+    "odometroInicial": 883.2,
+    "odometroFinal": 883.2,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 86.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a25d",
     "data": "14/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "883.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "894"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a25e"
+    "odometroInicial": 883.2,
+    "odometroFinal": 894,
+    "kmsPercorridos": 10.8,
+    "kmsAcumulado": 96.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a25f",
     "data": "15/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "894"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "918.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "24.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a260"
+    "odometroInicial": 894,
+    "odometroFinal": 918.4,
+    "kmsPercorridos": 24.4,
+    "kmsAcumulado": 121.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a261",
     "data": "16/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "918.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "927.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a262"
+    "odometroInicial": 918.4,
+    "odometroFinal": 927.6,
+    "kmsPercorridos": 9.2,
+    "kmsAcumulado": 130.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a263",
     "data": "17/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "927.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "935.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a264"
+    "odometroInicial": 927.6,
+    "odometroFinal": 935.7,
+    "kmsPercorridos": 8.1,
+    "kmsAcumulado": 138.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a265",
     "data": "18/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "935.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "945.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a266"
+    "odometroInicial": 935.7,
+    "odometroFinal": 945.5,
+    "kmsPercorridos": 9.8,
+    "kmsAcumulado": 148.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a267",
     "data": "19/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "945.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "949.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a268"
+    "odometroInicial": 945.5,
+    "odometroFinal": 949.8,
+    "kmsPercorridos": 4.3,
+    "kmsAcumulado": 152.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a269",
     "data": "20/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "949.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "957.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a26a"
+    "odometroInicial": 949.8,
+    "odometroFinal": 957.3,
+    "kmsPercorridos": 7.5,
+    "kmsAcumulado": 160.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a26b",
     "data": "21/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "957.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "961.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a26c"
+    "odometroInicial": 957.3,
+    "odometroFinal": 961.5,
+    "kmsPercorridos": 4.2,
+    "kmsAcumulado": 164.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a26d",
     "data": "22/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "961.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "977.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a26e"
+    "odometroInicial": 961.5,
+    "odometroFinal": 977.9,
+    "kmsPercorridos": 16.4,
+    "kmsAcumulado": 180.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a26f",
     "data": "23/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "977.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "990.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a270"
+    "odometroInicial": 977.9,
+    "odometroFinal": 990.2,
+    "kmsPercorridos": 12.3,
+    "kmsAcumulado": 193.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a271",
     "data": "24/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "990.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "NaN"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a272"
+    "odometroInicial": 990.2,
+    "odometroFinal": null,
+    "kmsPercorridos": 12.4,
+    "kmsAcumulado": 205.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a273",
     "data": "25/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "2.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "10.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a274"
+    "odometroInicial": 2.6,
+    "odometroFinal": 10.8,
+    "kmsPercorridos": 8.2,
+    "kmsAcumulado": 213.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a275",
     "data": "26/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "10.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "10.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a276"
+    "odometroInicial": 10.8,
+    "odometroFinal": 10.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 213.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a277",
     "data": "27/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "10.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "10.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a278"
+    "odometroInicial": 10.8,
+    "odometroFinal": 10.8,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 213.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a279",
     "data": "28/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "10.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "20"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a27a"
+    "odometroInicial": 10.8,
+    "odometroFinal": 20,
+    "kmsPercorridos": 9.2,
+    "kmsAcumulado": 222.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a27b",
     "data": "29/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 26,
-    "odometroInicial": {
-      "$numberDecimal": "20"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "33.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a27c"
+    "odometroInicial": 20,
+    "odometroFinal": 33.5,
+    "kmsPercorridos": 13.5,
+    "kmsAcumulado": 236.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a27d",
     "data": "30/04/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 27,
-    "odometroInicial": {
-      "$numberDecimal": "33.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "46.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a27e"
+    "odometroInicial": 33.5,
+    "odometroFinal": 46.7,
+    "kmsPercorridos": 13.2,
+    "kmsAcumulado": 249.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a27f",
     "data": "01/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 28,
-    "odometroInicial": {
-      "$numberDecimal": "46.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "47.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "1.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a280"
+    "odometroInicial": 46.7,
+    "odometroFinal": 47.8,
+    "kmsPercorridos": 1.1,
+    "kmsAcumulado": 250.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a281",
     "data": "02/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 29,
-    "odometroInicial": {
-      "$numberDecimal": "47.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "63.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "15.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a282"
+    "odometroInicial": 47.8,
+    "odometroFinal": 63.6,
+    "kmsPercorridos": 15.8,
+    "kmsAcumulado": 266.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a283",
     "data": "03/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 30,
-    "odometroInicial": {
-      "$numberDecimal": "63.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "71.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a284"
+    "odometroInicial": 63.6,
+    "odometroFinal": 71.5,
+    "kmsPercorridos": 7.9,
+    "kmsAcumulado": 274.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a285",
     "data": "04/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 31,
-    "odometroInicial": {
-      "$numberDecimal": "71.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "71.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a286"
+    "odometroInicial": 71.5,
+    "odometroFinal": 71.5,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 274.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a287",
     "data": "05/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 32,
-    "odometroInicial": {
-      "$numberDecimal": "71.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "84.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a288"
+    "odometroInicial": 71.5,
+    "odometroFinal": 84.1,
+    "kmsPercorridos": 12.6,
+    "kmsAcumulado": 287
   },
   {
-    "id": "68dbe57dff00bdf3c094a289",
     "data": "06/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 33,
-    "odometroInicial": {
-      "$numberDecimal": "84.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "95.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a28a"
+    "odometroInicial": 84.1,
+    "odometroFinal": 95.8,
+    "kmsPercorridos": 11.7,
+    "kmsAcumulado": 298.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a28b",
     "data": "07/05/25",
-    "periodo": 12,
+    "intervalo": 12,
     "dia": 34,
-    "odometroInicial": {
-      "$numberDecimal": "95.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "98.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a28c"
+    "odometroInicial": 95.8,
+    "odometroFinal": 98.5,
+    "kmsPercorridos": 2.7,
+    "kmsAcumulado": 301.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a28d",
     "data": "07/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "98.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "119.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "21.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a28e"
+    "odometroInicial": 98.5,
+    "odometroFinal": 119.6,
+    "kmsPercorridos": 21.1,
+    "kmsAcumulado": 21.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a28f",
     "data": "08/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "119.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "132.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a290"
+    "odometroInicial": 119.6,
+    "odometroFinal": 132.9,
+    "kmsPercorridos": 13.3,
+    "kmsAcumulado": 34.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a291",
     "data": "09/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "132.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "138.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6"
-    },
-    "_id": "68dbe57dff00bdf3c094a292"
+    "odometroInicial": 132.9,
+    "odometroFinal": 138.9,
+    "kmsPercorridos": 6,
+    "kmsAcumulado": 40.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a293",
     "data": "10/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "138.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "145.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a294"
+    "odometroInicial": 138.9,
+    "odometroFinal": 145.6,
+    "kmsPercorridos": 6.7,
+    "kmsAcumulado": 47.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a295",
     "data": "11/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "145.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "145.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a296"
+    "odometroInicial": 145.6,
+    "odometroFinal": 145.6,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 47.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a297",
     "data": "12/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "145.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "154"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a298"
+    "odometroInicial": 145.6,
+    "odometroFinal": 154,
+    "kmsPercorridos": 8.4,
+    "kmsAcumulado": 55.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a299",
     "data": "13/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "154"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "162.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a29a"
+    "odometroInicial": 154,
+    "odometroFinal": 162.3,
+    "kmsPercorridos": 8.3,
+    "kmsAcumulado": 63.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a29b",
     "data": "14/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "162.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "176.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a29c"
+    "odometroInicial": 162.3,
+    "odometroFinal": 176.9,
+    "kmsPercorridos": 14.6,
+    "kmsAcumulado": 78.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a29d",
     "data": "15/05/25",
-    "periodo": 13,
+    "intervalo": 13,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "176.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "179.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a29e"
+    "odometroInicial": 176.9,
+    "odometroFinal": 179.7,
+    "kmsPercorridos": 2.8,
+    "kmsAcumulado": 81.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a29f",
     "data": "15/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "179.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "191.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2a0"
+    "odometroInicial": 179.7,
+    "odometroFinal": 191.5,
+    "kmsPercorridos": 11.8,
+    "kmsAcumulado": 11.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a2a1",
     "data": "16/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "191.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "199.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a2a2"
+    "odometroInicial": 191.5,
+    "odometroFinal": 199.4,
+    "kmsPercorridos": 7.9,
+    "kmsAcumulado": 19.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2a3",
     "data": "17/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "199.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "216.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "17.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a2a4"
+    "odometroInicial": 199.4,
+    "odometroFinal": 216.9,
+    "kmsPercorridos": 17.5,
+    "kmsAcumulado": 37.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a2a5",
     "data": "18/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "216.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "219.7"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2a6"
+    "odometroInicial": 216.9,
+    "odometroFinal": 219.7,
+    "kmsPercorridos": 2.8,
+    "kmsAcumulado": 40
   },
   {
-    "id": "68dbe57dff00bdf3c094a2a7",
     "data": "19/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "219.7"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "221.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a2a8"
+    "odometroInicial": 219.7,
+    "odometroFinal": 221.9,
+    "kmsPercorridos": 2.2,
+    "kmsAcumulado": 42.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a2a9",
     "data": "20/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "221.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "224.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a2aa"
+    "odometroInicial": 221.9,
+    "odometroFinal": 224.2,
+    "kmsPercorridos": 2.3,
+    "kmsAcumulado": 44.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a2ab",
     "data": "21/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "224.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "230"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "5.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ac"
+    "odometroInicial": 224.2,
+    "odometroFinal": 230,
+    "kmsPercorridos": 5.8,
+    "kmsAcumulado": 50.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a2ad",
     "data": "22/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "230"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "232.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ae"
+    "odometroInicial": 230,
+    "odometroFinal": 232.6,
+    "kmsPercorridos": 2.6,
+    "kmsAcumulado": 52.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a2af",
     "data": "23/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "232.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "242.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "9.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2b0"
+    "odometroInicial": 232.6,
+    "odometroFinal": 242.4,
+    "kmsPercorridos": 9.8,
+    "kmsAcumulado": 62.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2b1",
     "data": "24/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "242.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "242.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a2b2"
+    "odometroInicial": 242.4,
+    "odometroFinal": 242.4,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 62.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2b3",
     "data": "25/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "242.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "246"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "3.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a2b4"
+    "odometroInicial": 242.4,
+    "odometroFinal": 246,
+    "kmsPercorridos": 3.6,
+    "kmsAcumulado": 66.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a2b5",
     "data": "26/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "246"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "259.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a2b6"
+    "odometroInicial": 246,
+    "odometroFinal": 259.9,
+    "kmsPercorridos": 13.9,
+    "kmsAcumulado": 80.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a2b7",
     "data": "27/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "259.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "271.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a2b8"
+    "odometroInicial": 259.9,
+    "odometroFinal": 271.5,
+    "kmsPercorridos": 11.6,
+    "kmsAcumulado": 91.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a2b9",
     "data": "28/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 14,
-    "odometroInicial": {
-      "$numberDecimal": "271.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "275.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ba"
+    "odometroInicial": 271.5,
+    "odometroFinal": 275.5,
+    "kmsPercorridos": 4,
+    "kmsAcumulado": 95.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a2bb",
     "data": "29/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 15,
-    "odometroInicial": {
-      "$numberDecimal": "275.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "289.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a2bc"
+    "odometroInicial": 275.5,
+    "odometroFinal": 289.6,
+    "kmsPercorridos": 14.1,
+    "kmsAcumulado": 109.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a2bd",
     "data": "30/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 16,
-    "odometroInicial": {
-      "$numberDecimal": "289.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "300.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a2be"
+    "odometroInicial": 289.6,
+    "odometroFinal": 300.9,
+    "kmsPercorridos": 11.3,
+    "kmsAcumulado": 121.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a2bf",
     "data": "31/05/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 17,
-    "odometroInicial": {
-      "$numberDecimal": "300.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "309"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a2c0"
+    "odometroInicial": 300.9,
+    "odometroFinal": 309,
+    "kmsPercorridos": 8.1,
+    "kmsAcumulado": 129.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a2c1",
     "data": "01/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 18,
-    "odometroInicial": {
-      "$numberDecimal": "309"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "316.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a2c2"
+    "odometroInicial": 309,
+    "odometroFinal": 316.3,
+    "kmsPercorridos": 7.3,
+    "kmsAcumulado": 136.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a2c3",
     "data": "02/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 19,
-    "odometroInicial": {
-      "$numberDecimal": "316.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "328.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a2c4"
+    "odometroInicial": 316.3,
+    "odometroFinal": 328.2,
+    "kmsPercorridos": 11.9,
+    "kmsAcumulado": 148.5
   },
   {
-    "id": "68dbe57dff00bdf3c094a2c5",
     "data": "03/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 20,
-    "odometroInicial": {
-      "$numberDecimal": "328.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "351.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "23.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a2c6"
+    "odometroInicial": 328.2,
+    "odometroFinal": 351.6,
+    "kmsPercorridos": 23.4,
+    "kmsAcumulado": 171.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a2c7",
     "data": "04/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 21,
-    "odometroInicial": {
-      "$numberDecimal": "351.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "365.8"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "14.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a2c8"
+    "odometroInicial": 351.6,
+    "odometroFinal": 365.8,
+    "kmsPercorridos": 14.2,
+    "kmsAcumulado": 186.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a2c9",
     "data": "05/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 22,
-    "odometroInicial": {
-      "$numberDecimal": "365.8"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "376.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "10.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ca"
+    "odometroInicial": 365.8,
+    "odometroFinal": 376.6,
+    "kmsPercorridos": 10.8,
+    "kmsAcumulado": 196.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a2cb",
     "data": "06/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 23,
-    "odometroInicial": {
-      "$numberDecimal": "376.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "381.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "4.5"
-    },
-    "_id": "68dbe57dff00bdf3c094a2cc"
+    "odometroInicial": 376.6,
+    "odometroFinal": 381.1,
+    "kmsPercorridos": 4.5,
+    "kmsAcumulado": 201.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a2cd",
     "data": "07/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 24,
-    "odometroInicial": {
-      "$numberDecimal": "381.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "389.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "8.3"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ce"
+    "odometroInicial": 381.1,
+    "odometroFinal": 389.4,
+    "kmsPercorridos": 8.3,
+    "kmsAcumulado": 209.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2cf",
     "data": "08/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 25,
-    "odometroInicial": {
-      "$numberDecimal": "389.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "389.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a2d0"
+    "odometroInicial": 389.4,
+    "odometroFinal": 389.4,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 209.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2d1",
     "data": "09/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 26,
-    "odometroInicial": {
-      "$numberDecimal": "389.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "402"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "12.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a2d2"
+    "odometroInicial": 389.4,
+    "odometroFinal": 402,
+    "kmsPercorridos": 12.6,
+    "kmsAcumulado": 222.3
   },
   {
-    "id": "68dbe57dff00bdf3c094a2d3",
     "data": "10/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 27,
-    "odometroInicial": {
-      "$numberDecimal": "402"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "415.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a2d4"
+    "odometroInicial": 402,
+    "odometroFinal": 415.6,
+    "kmsPercorridos": 13.6,
+    "kmsAcumulado": 235.9
   },
   {
-    "id": "68dbe57dff00bdf3c094a2d5",
     "data": "11/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 28,
-    "odometroInicial": {
-      "$numberDecimal": "415.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "422.4"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "6.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2d6"
+    "odometroInicial": 415.6,
+    "odometroFinal": 422.4,
+    "kmsPercorridos": 6.8,
+    "kmsAcumulado": 242.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2d7",
     "data": "12/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 29,
-    "odometroInicial": {
-      "$numberDecimal": "422.4"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "438.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.1"
-    },
-    "_id": "68dbe57dff00bdf3c094a2d8"
+    "odometroInicial": 422.4,
+    "odometroFinal": 438.5,
+    "kmsPercorridos": 16.1,
+    "kmsAcumulado": 258.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a2d9",
     "data": "13/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 30,
-    "odometroInicial": {
-      "$numberDecimal": "438.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "456.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "18.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a2da"
+    "odometroInicial": 438.5,
+    "odometroFinal": 456.9,
+    "kmsPercorridos": 18.4,
+    "kmsAcumulado": 277.2
   },
   {
-    "id": "68dbe57dff00bdf3c094a2db",
     "data": "14/06/25",
-    "periodo": 14,
+    "intervalo": 14,
     "dia": 31,
-    "odometroInicial": {
-      "$numberDecimal": "456.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "468.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "11.6"
-    },
-    "_id": "68dbe57dff00bdf3c094a2dc"
+    "odometroInicial": 456.9,
+    "odometroFinal": 468.5,
+    "kmsPercorridos": 11.6,
+    "kmsAcumulado": 288.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a2dd",
     "data": "14/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 1,
-    "odometroInicial": {
-      "$numberDecimal": "468.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "471.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "2.7"
-    },
-    "_id": "68dbe57dff00bdf3c094a2de"
+    "odometroInicial": 468.5,
+    "odometroFinal": 471.2,
+    "kmsPercorridos": 2.7,
+    "kmsAcumulado": 2.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2df",
     "data": "15/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 2,
-    "odometroInicial": {
-      "$numberDecimal": "471.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "471.2"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a2e0"
+    "odometroInicial": 471.2,
+    "odometroFinal": 471.2,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 2.7
   },
   {
-    "id": "68dbe57dff00bdf3c094a2e1",
     "data": "16/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 3,
-    "odometroInicial": {
-      "$numberDecimal": "471.2"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "478.6"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "7.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a2e2"
+    "odometroInicial": 471.2,
+    "odometroFinal": 478.6,
+    "kmsPercorridos": 7.4,
+    "kmsAcumulado": 10.1
   },
   {
-    "id": "68dbe57dff00bdf3c094a2e3",
     "data": "17/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 4,
-    "odometroInicial": {
-      "$numberDecimal": "478.6"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "492.5"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "13.9"
-    },
-    "_id": "68dbe57dff00bdf3c094a2e4"
+    "odometroInicial": 478.6,
+    "odometroFinal": 492.5,
+    "kmsPercorridos": 13.9,
+    "kmsAcumulado": 24
   },
   {
-    "id": "68dbe57dff00bdf3c094a2e5",
     "data": "18/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 5,
-    "odometroInicial": {
-      "$numberDecimal": "492.5"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "515.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "23.4"
-    },
-    "_id": "68dbe57dff00bdf3c094a2e6"
+    "odometroInicial": 492.5,
+    "odometroFinal": 515.9,
+    "kmsPercorridos": 23.4,
+    "kmsAcumulado": 47.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a2e7",
     "data": "19/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 6,
-    "odometroInicial": {
-      "$numberDecimal": "515.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "515.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a2e8"
+    "odometroInicial": 515.9,
+    "odometroFinal": 515.9,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 47.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a2e9",
     "data": "20/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 7,
-    "odometroInicial": {
-      "$numberDecimal": "515.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "536.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "20.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ea"
+    "odometroInicial": 515.9,
+    "odometroFinal": 536.1,
+    "kmsPercorridos": 20.2,
+    "kmsAcumulado": 67.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a2eb",
     "data": "21/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 8,
-    "odometroInicial": {
-      "$numberDecimal": "536.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "552.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "16.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ec"
+    "odometroInicial": 536.1,
+    "odometroFinal": 552.9,
+    "kmsPercorridos": 16.8,
+    "kmsAcumulado": 84.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a2ed",
     "data": "22/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 9,
-    "odometroInicial": {
-      "$numberDecimal": "552.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "552.9"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a2ee"
+    "odometroInicial": 552.9,
+    "odometroFinal": 552.9,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 84.4
   },
   {
-    "id": "68dbe57dff00bdf3c094a2ef",
     "data": "23/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 10,
-    "odometroInicial": {
-      "$numberDecimal": "552.9"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "571.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "18.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a2f0"
+    "odometroInicial": 552.9,
+    "odometroFinal": 571.1,
+    "kmsPercorridos": 18.2,
+    "kmsAcumulado": 102.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a2f1",
     "data": "24/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 11,
-    "odometroInicial": {
-      "$numberDecimal": "571.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "571.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "0"
-    },
-    "_id": "68dbe57dff00bdf3c094a2f2"
+    "odometroInicial": 571.1,
+    "odometroFinal": 571.1,
+    "kmsPercorridos": 0,
+    "kmsAcumulado": 102.6
   },
   {
-    "id": "68dbe57dff00bdf3c094a2f3",
     "data": "25/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 12,
-    "odometroInicial": {
-      "$numberDecimal": "571.1"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "594.3"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "23.2"
-    },
-    "_id": "68dbe57dff00bdf3c094a2f4"
+    "odometroInicial": 571.1,
+    "odometroFinal": 594.3,
+    "kmsPercorridos": 23.2,
+    "kmsAcumulado": 125.8
   },
   {
-    "id": "68dbe57dff00bdf3c094a2f5",
     "data": "26/06/25",
-    "periodo": 15,
+    "intervalo": 15,
     "dia": 13,
-    "odometroInicial": {
-      "$numberDecimal": "594.3"
-    },
-    "odometroFinal": {
-      "$numberDecimal": "612.1"
-    },
-    "kmPercorridos": {
-      "$numberDecimal": "17.8"
-    },
-    "_id": "68dbe57dff00bdf3c094a2f6"
+    "odometroInicial": 594.3,
+    "odometroFinal": 612.1,
+    "kmsPercorridos": 17.8,
+    "kmsAcumulado": 143.6
   }
 ]
