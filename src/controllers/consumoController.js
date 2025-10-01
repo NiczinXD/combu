@@ -18,21 +18,6 @@ class ConsumoController {
             res.status(500).json({ message: "Erro ao buscar dados"});
         }
     }
-
-
-    
-    /*
-    static async buscaPorId(req, res){
-        try {
-            const idConsumo = Number(req.params.idConsumo);
-            const lista = await consumo.findOne({ idConsumo: Number(idConsumo) });
-            res.status(200).json(lista);
-        } catch (error) {
-            res.status(500).json({ message: "Erro ao buscar dados"});
-        }
-    }
-    */
-    
 }
 
 export default ConsumoController;
