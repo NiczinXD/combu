@@ -9,6 +9,14 @@ class CicloController {
             res.status(500).json({ message: "Erro ao cadastrar ciclo"});
         }
     }
+    static async busca(req, res){
+        try {
+            const ciclos = await ciclo.find({});
+            res.json(ciclos);
+        } catch (error){
+            res.status(500).json({ message: "Erro ao buscar dados"});
+        }
+    }
 }
 
 export default CicloController;
