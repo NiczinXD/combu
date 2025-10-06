@@ -14,3 +14,8 @@ node index.js
 ```
 node server.js
 ```
+
+## rotas ->
+```
+/ciclos, /busca
+```

@@ -3,7 +3,7 @@ import CicloController from "../controllers/cicloController.js";
 
 const router = express.Router();
 
-router.post('/ciclo', CicloController.cadastrar);
-router.get('/ciclo', CicloController.busca);
+router.post('/ciclos', CicloController.cadastrar);
+router.get('/ciclos', CicloController.busca);
 
 export default router;
