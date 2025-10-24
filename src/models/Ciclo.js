@@ -1,6 +1,5 @@
 import mongoose from "mongoose";
 
-
 const cicloSchema = new mongoose.Schema({
     _id: { type: mongoose.Schema.Types.ObjectId, auto: true },
     data: { type: String, required: true },

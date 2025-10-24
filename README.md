@@ -1,20 +1,20 @@
-## Desafios: Exercícios
+## Projeto: Combu [Controle de combustível]	
 #### Projeto : combu
 
 *Uso do Node.js*
 
 #### comandos necessários:
 
-## para poder abrir o servidor local ->
+## Executar a API ->
 ```
 npm run dev
 ```
 
-## Para importar a coleção “Movimentos” para o MongoDB ->
+## Importar coleção "Movimentos" de um arquivo CSV ->
 ```
 node app02
 ```
-## para poder baixar o arquivo do projeto em JSON ->
+## Ler um arquivo CSV, processar os dados e salva em um arquivo JSON ->
 ```
 node app01
 ```
@@ -22,6 +22,9 @@ node app01
 ## rotas ->
 ```
 get http://localhost:3000/ciclos; get http://localhost:3000/busca;
+```
+```
+get http://localhost:3000/busca;
 ```
 ```
 post http://localhost:3000/ciclos;
