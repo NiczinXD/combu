@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 async function conectaNaDatabase() {
-    mongoose.connect("mongodb://127.0.0.1:27017/Combu");
+    mongoose.connect(process.env.CONEXAO_MONGO);
     return mongoose.connection;
 }
 
