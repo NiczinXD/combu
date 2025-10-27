@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const cicloSchema = new mongoose.Schema({
     _id: { type: mongoose.Schema.Types.ObjectId, auto: true },
     data: { type: String, required: true },
-    periodo: { type: Number, required: true },
+    ciclo: { type: Number, required: true },
     kmPercorridos: { type: Number, required: true },
     consumo: { type: Number, required: true },
     vigente: { type: Boolean, required: true },

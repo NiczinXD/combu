@@ -21,7 +21,7 @@ node app01
 
 ## rotas ->
 ```
-get http://localhost:3000/ciclos; get http://localhost:3000/busca;
+get http://localhost:3000/ciclos;
 ```
 ```
 get http://localhost:3000/busca;
