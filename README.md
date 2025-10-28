@@ -1,5 +1,4 @@
 ## Projeto: Combu [Controle de combustível]	
-#### Projeto : combu
 
 *Uso do Node.js*
 
@@ -33,7 +32,7 @@ post http://localhost:3000/ciclos;
 exemplo para inserir no post:
   {
         "data": "2025-10-28",
-        "periodo": 20,
+        "ciclo": 20,
         "kmPercorridos": 0.0,
         "consumo": 0.0,
         "vigente": true,

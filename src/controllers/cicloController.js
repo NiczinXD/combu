@@ -17,6 +17,15 @@ class CicloController {
             res.status(500).json({ message: "Erro ao buscar dados"});
         }
     }
+    static async exclui (req, res) {
+    try {
+      const id = req.params.id;
+      await ciclo.findByIdAndDelete(id);
+      res.status(200).json({ message: "ciclo excluido" });
+    } catch (erro) {
+      res.status(500).json({ message: `${erro.message} - falha na exclusão` });
+    }
+  };
 }
 
 export default CicloController;
