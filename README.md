@@ -30,14 +30,14 @@ post http://localhost:3000/ciclos;
 ```
 ```
 exemplo para inserir no post:
-  {
+    {
         "data": "2025-10-28",
-        "ciclo": 20,
-        "kmPercorridos": 0.0,
-        "consumo": 0.0,
+        "ciclo": 2,
         "vigente": true,
-        "precoLitro": 5.98,
-        "precoTotal": 204.61,
-        "quantidadeLitros": 34.21
-    }
+        "odometroInicial": 24,
+        "odometroFinal": 69,
+        "kmPercorridos": 2313132131313213132131,
+        "autonomiaPrevistaProximoCiclo": 8,
+        "consumo": 2132131313132131313131
+    } 
 ```
